@@ -1,0 +1,158 @@
+http://catalog.data.gov/api/3/action/package_search?q=name:va-personal-health-record-non-identifiable-data
+
+{
+    "help": "\n    Searches for packages satisfying a given search criteria.\n\n    This action accepts solr search query parameters (details below), and\n    returns a dictionary of results, including dictized datasets that match\n    the search criteria, a search count and also facet information.\n\n    **Solr Parameters:**\n\n    For more in depth treatment of each paramter, please read the `Solr\n    Documentation <http://wiki.apache.org/solr/CommonQueryParameters>`_.\n\n    This action accepts a *subset* of solr's search query parameters:\n\n    :param q: the solr query.  Optional.  Default: `\"*:*\"`\n    :type q: string\n    :param fq: any filter queries to apply.  Note: `+site_id:{ckan_site_id}`\n        is added to this string prior to the query being executed.\n    :type fq: string\n    :param rows: the number of matching rows to return.\n    :type rows: int\n    :param sort: sorting of the search results.  Optional.  Default:\n        \"score desc, name asc\".  As per the solr documentation, this is a\n        comma-separated string of field names and sort-orderings.\n    :type sort: string\n    :param start: the offset in the complete result for where the set of\n        returned datasets should begin.\n    :type start: int\n    :param qf: the dismax query fields to search within, including boosts.  See\n        the `Solr Dismax Documentation\n        <http://wiki.apache.org/solr/DisMaxQParserPlugin#qf_.28Query_Fields.29>`_\n        for further details.\n    :type qf: string\n    :param facet: whether to enable faceted results.  Default: \"true\".\n    :type facet: string\n    :param facet.mincount: the minimum counts for facet fields should be\n        included in the results.\n    :type facet.mincount: int\n    :param facet.limit: the maximum number of constraint counts that should be\n        returned for the facet fields. A negative value means unlimited\n    :type facet.limit: int\n    :param facet.field: the fields to facet upon.  Default empty.  If empty,\n        then the returned facet information is empty.\n    :type facet.field: list of strings\n\n    **Results:**\n\n    The result of this action is a dict with the following keys:\n\n    :rtype: A dictionary with the following keys\n    :param count: the number of results found.  Note, this is the total number\n        of results found, not the total number of results returned (which is\n        affected by limit and row parameters used in the input).\n    :type count: int\n    :param results: ordered list of datasets matching the query, where the\n        ordering defined by the sort parameter used in the query.\n    :type results: list of dictized datasets.\n    :param facets: DEPRECATED.  Aggregated information about facet counts.\n    :type facets: DEPRECATED dict\n    :param search_facets: aggregated information about facet counts.  The outer\n        dict is keyed by the facet field name (as used in the search query).\n        Each entry of the outer dict is itself a dict, with a \"title\" key, and\n        an \"items\" key.  The \"items\" key's value is a list of dicts, each with\n        \"count\", \"display_name\" and \"name\" entries.  The display_name is a\n        form of the name that can be used in titles.\n    :type search_facets: nested dict of dicts.\n\n    An example result: ::\n\n     {'count': 2,\n      'results': [ { <snip> }, { <snip> }],\n      'search_facets': {u'tags': {'items': [{'count': 1,\n                                             'display_name': u'tolstoy',\n                                             'name': u'tolstoy'},\n                                            {'count': 2,\n                                             'display_name': u'russian',\n                                             'name': u'russian'}\n                                           ]\n                                 }\n                       }\n     }\n\n    **Limitations:**\n\n    The full solr query language is not exposed, including.\n\n    fl\n        The parameter that controls which fields are returned in the solr\n        query cannot be changed.  CKAN always returns the matched datasets as\n        dictionary objects.\n    ",
+    "success": true,
+    "result": {
+        "count": 1,
+        "search_facets": {},
+        "facets": {},
+        "results": [{
+            "owner_org": "e48dc5b3-f8a1-488d-bb8a-ae1ac28a7460",
+            "maintainer": null,
+            "relationships_as_object": [],
+            "private": false,
+            "maintainer_email": null,
+            "num_tags": 0,
+            "id": "VA-2157",
+            "metadata_created": "2013-05-18T09:56:18.521850",
+            "metadata_modified": "2013-09-26T06:24:02.258389",
+            "author": null,
+            "author_email": null,
+            "state": "active",
+            "version": null,
+            "license_id": null,
+            "type": "dataset",
+            "resources": [{
+                "resource_group_id": "2ab66222-ddd3-4fe2-875e-da1a47831327",
+                "cache_last_updated": null,
+                "revision_timestamp": "2013-05-25T06:47:52.107480",
+                "webstore_last_updated": null,
+                "id": "e448fd6a-2d91-4d74-91b5-da85bece670e",
+                "size": null,
+                "size_text": "0.015",
+                "state": "active",
+                "hash": "",
+                "description": "Resources.asp",
+                "format": "TXT",
+                "tracking_summary": {
+                    "total": 0,
+                    "recent": 0
+                },
+                "mimetype_inner": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": "Text File",
+                "created": "2013-05-18T11:56:18.552254",
+                "url": "http://www.va.gov/BLUEBUTTON/Resources.asp",
+                "webstore_url": null,
+                "last_modified": null,
+                "position": 0,
+                "revision_id": "dbefb0ee-cdc6-4f21-a953-57d6ba15fe00",
+                "resource_type": null
+            }],
+            "num_resources": 1,
+            "tags": [],
+            "title": "VA Personal Health Record Sample Data",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "groups": [{
+                "capacity": "public",
+                "description": "",
+                "created": "2013-05-18T12:07:48.577485",
+                "title": "Consumer",
+                "name": "consumer9350",
+                "is_organization": false,
+                "state": "active",
+                "image_url": "",
+                "revision_id": "27371710-56fa-43d5-9807-33d6616313e4",
+                "type": "group",
+                "id": "3b4e71c5-3c3c-43af-a3ff-81694225e453",
+                "approval_status": "approved"
+            }],
+            "relationships_as_subject": [],
+            "revision_timestamp": "2013-09-26T06:24:02.258389",
+            "name": "va-personal-health-record-non-identifiable-data",
+            "isopen": false,
+            "url": null,
+            "notes": "My HealtheVet (www.myhealth.va.gov ) is a Personal Health Record portal designed to improve the delivery of health care services to Veterans, to promote health and wellness, and to engage Veterans as more active participants in their health care. The My HealtheVet portal enables Veterans to create and maintain a web-based PHR that provides access to patient health education information and resources, a comprehensive personal health journal, and electronic services such as online VA prescription refill requests and Secure Messaging. Veterans can visit the My HealtheVet website and self-register to create an account, although registration is not required to view the professionally-sponsored health education resources, including topics of special interest to the Veteran population. Once registered, Veterans can create a customized PHR that is accessible from any computer with Internet access. For Veterans who are VA patients, authentication provides access to additional features, such as the ability to import extracted VA EHR data into the PHR. The site also includes a customizable health calendar, online learning modules, and self-assessment tools. The VA Blue Button enables Veterans to download their available health care information in a single electronic file. The sample data files referenced on Data.Gov are provided to industry partners for testing purposes.",
+            "license_title": null,
+            "extras": [{
+                "key": "__category_tag_3b4e71c5-3c3c-43af-a3ff-81694225e453",
+                "value": "[\"Health Care\"]"
+            }, {
+                "key": "contact-email",
+                "value": "john.quinn@va.gov"
+            }, {
+                "key": "data-dictiionary",
+                "value": "http://www.va.gov/bluebutton"
+            }, {
+                "key": "issued",
+                "value": "05/01/2010"
+            }, {
+                "key": "resource-type",
+                "value": "Dataset"
+            }, {
+                "key": "dataset-reference-date",
+                "value": "1/1/2010 - 9/29/2012"
+            }, {
+                "key": "spatial-text",
+                "value": "Not applicable"
+            }, {
+                "key": "person",
+                "value": "John Quinn"
+            }, {
+                "key": "theme",
+                "value": "Section 3. Health and Nutrition"
+            }, {
+                "key": "references",
+                "value": "http://www.va.gov/bluebutton"
+            }, {
+                "key": "frequency-of-update",
+                "value": "one-time"
+            }, {
+                "key": "licence",
+                "value": " "
+            }, {
+                "key": "metadata-date",
+                "value": "9/29/2012"
+            }, {
+                "key": "access-level",
+                "value": "public"
+            }, {
+                "package_id": "VA-2157",
+                "value": "dms",
+                "revision_timestamp": "2013-05-18T09:56:18.521850",
+                "state": "active",
+                "key": "metadata-source",
+                "revision_id": "5105fe56-1731-4794-a519-f21bdb336b1d",
+                "id": "9c5f87f5-b9ec-44c8-bfe7-7a7be43217b0"
+            }, {
+                "package_id": "VA-2157",
+                "value": "personal health record, C32, VA, My HealtheVet, Blue Button, CMS, PHR, sample, patient, electronic health record, download, MHV, EHR, BlueButton, nonidentifiable, non-identifiable, Veteran",
+                "revision_timestamp": "2013-05-18T09:56:18.521850",
+                "state": "active",
+                "key": "tags",
+                "revision_id": "5105fe56-1731-4794-a519-f21bdb336b1d",
+                "id": "e1125c6b-32e9-444d-a471-4470ec087407"
+            }],
+            "organization": {
+                "description": "",
+                "created": "2013-05-18T11:42:33.197422",
+                "title": "Veterans Health Administration, Department of Veterans Affairs",
+                "name": "vha-va-gov",
+                "revision_timestamp": "2013-05-18T09:42:33.151545",
+                "is_organization": true,
+                "state": "active",
+                "image_url": "",
+                "revision_id": "2213d665-f646-4446-924a-d0c3a92b3d26",
+                "type": "organization",
+                "id": "e48dc5b3-f8a1-488d-bb8a-ae1ac28a7460",
+                "approval_status": "approved"
+            },
+            "revision_id": "a277913e-58fe-443a-99c9-f9d0c584419e"
+        }]
+    }
+}
