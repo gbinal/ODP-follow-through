@@ -1,0 +1,2182 @@
+[
+  {
+    "title": "Alternative Fuel Stations",
+    "description": "Alternative Fuel Stations",
+    "keyword": "alternative fuel, fueling stations, electric, EV, EVSE, E85, ethanol, biodiesel, B20, B100, CNG, compressed natural gas, LNG, liquefied natural gas, LPG, propane, liquefied petroleum gas, hydrogen",
+    "modified": "2013-05-06",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "30f58cb8-98b1-44a2-83da-94107b10b374",
+    "accessLevel": "public",
+    "webService": "http://developer.nrel.gov/api/alt-fuel-stations/v1.json",
+    "landingPage": "http://developer.nrel.gov/doc/alt-fuel-stations-v1",
+    "references": "http://developer.nrel.gov/doc/api/alt-fuel-stations/v1,http://developer.nrel.gov/doc/api/alt-fuel-stations/v1/:id,http://developer.nrel.gov/doc/api/alt-fuel-stations/v1/last-updated,http://developer.nrel.gov/doc/api/alt-fuel-stations/v1/nearby-route,http://developer.nrel.gov/doc/api/alt-fuel-stations/v1/nearest",
+    "accrualPeriodicity": "weekly",
+    "spatial": "United States"
+  },
+  {
+    "title": "PVWatts",
+    "description": "PVWatts calculates the energy production and cost savings of grid-connected photovoltaic (PV) energy systems. This service estimates the performance of hypothetical residential and small commercial PV installations.",
+    "keyword": "solar, photovoltaic, PV, calculator, payback",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "392cf124-b37e-4d3c-b04c-29a2fd3cfabd",
+    "accessLevel": "public",
+    "webService": "http://developer.nrel.gov/api/pvwatts/v4.json",
+    "landingPage": "http://developer.nrel.gov/doc/pvwatts",
+    "references": "http://developer.nrel.gov/doc/api/pvwatts/v4",
+    "spatial": "United States"
+  },
+  {
+    "title": "PVDAQ (PV Data Acquisition)",
+    "description": "Photovoltaic performance data collected for systems throughout the country.",
+    "keyword": "solar, photovoltaic, PV",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "990da420-d803-4084-afa3-95404fa0d6bd",
+    "accessLevel": "public",
+    "webService": "https://developer.nrel.gov/api/pvdaq/v3/data.json",
+    "landingPage": "http://developer.nrel.gov/doc/pvdaq",
+    "references": "http://developer.nrel.gov/doc/pvdaq-v3,http://developer.nrel.gov/doc/api/pvdaq/v3/data,http://developer.nrel.gov/doc/api/pvdaq/v3/site_data,http://developer.nrel.gov/doc/api/pvdaq/v3/sites"
+  },
+  {
+    "title": "Solar Data Query",
+    "description": "Returns information on the closest climate data for a location.",
+    "keyword": "solar, climate",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "c4fea6b6-3c7d-4237-b944-7c78f53717b7",
+    "accessLevel": "public",
+    "webService": "http://developer.nrel.gov/api/solar/data_query/v1.json",
+    "landingPage": "http://developer.nrel.gov/doc/api/solar/data_query/v1",
+    "spatial": "United States"
+  },
+  {
+    "title": "Solar Resource",
+    "description": "Returns various types of solar data for a location. The service currently returns data for average Direct Normal Irradiance, average Global Horizontal Irradiance, and average Tilt at Latitude.",
+    "keyword": "solar, climate, solar irradiance",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "6eb24682-c220-4fd7-aa8c-88e105bd11b3",
+    "accessLevel": "public",
+    "webService": "http://developer.nrel.gov/api/solar/solar_resource/v1.json",
+    "landingPage": "http://developer.nrel.gov/doc/api/solar/solar_resource/v1",
+    "spatial": "United States"
+  },
+  {
+    "title": "Utility Rates",
+    "description": "Find electric utility rates and the utility companies for a specific location.",
+    "keyword": "electricity, utility rates",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "aa735d15-34f1-46d4-aad8-2074809a54cf",
+    "accessLevel": "public",
+    "webService": "http://developer.nrel.gov/api/georeserv/service/utility_rates.json",
+    "landingPage": "http://developer.nrel.gov/doc/api/georeserv/service/utility_rates",
+    "spatial": "United States"
+  },
+  {
+    "title": "Census Region Utility Rates",
+    "description": "Given a location and Census Bureau region level (block, blockgroup, tract), return the Census Bureau ID, utility rate and company information.",
+    "keyword": "electricity, utility rates, census region",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "2b2ad06c-dc85-4d5d-b445-34e27343c697",
+    "accessLevel": "public",
+    "webService": "http://developer.nrel.gov/api/census_rate/v3.json",
+    "landingPage": "http://developer.nrel.gov/doc/api/census_rate/v3",
+    "spatial": "United States"
+  },
+  {
+    "title": "Energy Incentives",
+    "description": "This service lists the incentives found in the DSIRE quantitative spreadsheet by location.",
+    "keyword": "electricity, utilities, incentives, rebates, policies",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "45550ec5-f745-49a9-a2e6-01bf76022455",
+    "accessLevel": "public",
+    "webService": "http://developer.nrel.gov/api/georeserv/service/incentives/pv.json",
+    "landingPage": "http://developer.nrel.gov/doc/api/georeserv/service/incentives",
+    "spatial": "United States"
+  },
+  {
+    "title": "Building Component Library",
+    "description": "",
+    "keyword": "buildings, energy modeling",
+    "modified": "2013-05-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "8e63a9e5-b1c8-4773-841b-09072219aefa",
+    "accessLevel": "public",
+    "webService": "http://bcl.nrel.gov/api/search/",
+    "landingPage": "https://bcl.nrel.gov/developer"
+  },
+  {
+    "title": "Biomass - Urban Wood and Secondary Mill Residues",
+    "description": "Biomass - Urban Wood and Secondary Mill Residues",
+    "keyword": "biomass, map",
+    "modified": "2012-05-23",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "fb2620e5-b288-4051-875a-02203d858ad5",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_biomass.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Biomass/High_Resolution/metadata/Urban+Wood+and+Secondary+Mill+Residues.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Biomass/High_Resolution/Urban+Wood+and+Secondary+Mill+Residues.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Biomass - Crop Residues ",
+    "description": "Biomass - Crop Residues ",
+    "keyword": "biomass, map",
+    "modified": "2008-10-28",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "cd403fbd-f21b-4326-aa5a-d33d748f8993",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_biomass.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Biomass/High_Resolution/metadata/CropResidues.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Biomass/High_Resolution/CropResidues.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Biomass - Forest and Primary Mill Residues",
+    "description": "Biomass - Forest and Primary Mill Residues",
+    "keyword": "biomass, map",
+    "modified": "2008-10-28",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "2e2732f6-0bb6-44d4-b84e-1a6ce3b1cfba",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_biomass.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Biomass/High_Resolution/metadata/Forest_Primary_Mill_Residues.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Biomass/High_Resolution/Forest_Primary_Mill_Residues.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Geothermal",
+    "description": "Geothermal",
+    "keyword": "geothermal, map",
+    "modified": "2009-03-05",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "fe79075f-39da-4f7a-aab2-8d0d87510d19",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_geothermal.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Geothermal/geothermal.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Geothermal/Lower_48_Geothermal_High_Resolution.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Geothermal - Geopressured Formation Properties",
+    "description": "Geothermal - Geopressured Formation Properties",
+    "keyword": "geothermal, map",
+    "modified": "2012-09-06",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "507740eb-b0e9-4e23-bd3c-89ce590644f7",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_geothermal.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Geothermal/Geopressured%20Formation%20Properties.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Geothermal/GeopressuredFormationProperties.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Geothermal - Geopressured Formation Temperature",
+    "description": "Geothermal - Geopressured Formation Temperature",
+    "keyword": "geothermal, map",
+    "modified": "2012-09-06",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "98bbdd25-64c2-4735-a512-e2b5bf45f1b6",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_geothermal.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Geothermal/Geopressured%20Formation%20Temperatures.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Geothermal/GeopressuredFormationTemperatures.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Hydrogen - Hydrogen ",
+    "description": "Hydrogen - Hydrogen ",
+    "keyword": "hydrogen, map",
+    "modified": "2009-03-05",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "ac8fc1d9-7511-467c-8285-f12d5ac5da16",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_hydrogen.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Hydrogen/High_Resolution/metadata/hydrogen_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Hydrogen/High_Resolution/Hydrogen.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL+Hydrogen.kmz",
+        "format": "kmz"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "International - Afghanistan Pakistan Wind 50m Resolution",
+    "description": "International - Afghanistan Pakistan Wind 50m Resolution",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "16fe8ee1-231e-4aa4-8130-663f281d4850",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/af_pk_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Afghanistan_Pakistan_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Armenia Wind 50m Resolution ",
+    "description": "International - Armenia Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "a8ec501e-b686-4177-9c69-962777e3ff07",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/armenia_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Armenia_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Bhutan Wind 50m Resolution ",
+    "description": "International - Bhutan Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "6449fc5e-d437-4645-86b3-e2d4872d97a1",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/bhutan_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Bhutan_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Central America Wind 50m Resolution (includes Belize, Cayman Islands, El Salvador, Guatemala, Honduras and Nicaragua",
+    "description": "International - Central America Wind 50m Resolution (includes Belize, Cayman Islands, El Salvador, Guatemala, Honduras and Nicaragua",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "035b0e1d-6e0f-4718-9dc7-4918c37a866b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/central_america_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Central_America_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Chile Wind 50m Resolution ",
+    "description": "International - Chile Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "5457fe5b-9f87-4653-8368-b28e2ec0c609",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/chile_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Chile_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - China Wind 50m Resolution ",
+    "description": "International - China Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "effecb97-b994-435b-af5f-81233cf2513d",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/china_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/China_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Cuba Wind 50m Resolution ",
+    "description": "International - Cuba Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "c5b24aaa-f058-454c-8230-22a879e015c3",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/cuba_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Cuba_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Dominican Republic Wind 50m Resolution ",
+    "description": "International - Dominican Republic Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "128b1bb1-1900-4e95-969d-22b037c94f56",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/dominican_republic_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Dominican_Republic_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Ghana Wind 50m Resolution ",
+    "description": "International - Ghana Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "9c36099d-4e27-4d09-a682-fe09fc03d33b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/ghana_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Ghana_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Indonesia Wind 50m Resolution ",
+    "description": "International - Indonesia Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "8d58f998-9aca-44b5-8caf-51353070b37e",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/indonesia_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Indonesia_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Mexico Wind 50m Resolution ",
+    "description": "International - Mexico Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "68cdbcfb-8be8-444b-a918-fddfd274041b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/mx_yuc_50mwind.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Mexico.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Mongolia Wind 50m Resolution ",
+    "description": "International - Mongolia Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "295dce90-d8e3-4294-825d-e1d262249acb",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/mongolia_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Mongolia_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Philippines Wind 50m Resolution ",
+    "description": "International - Philippines Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "a099283a-8dd4-4273-a1fb-cef71f0090e5",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/philippines_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Philippines_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Russian Federation Wind 50m Resolution ",
+    "description": "International - Russian Federation Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "c59d6eb7-c367-4ac4-9db2-59c3ee9e11c0",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/russian_federation_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Russian_Federation_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Sri Lanka Wind 50m Resolution ",
+    "description": "International - Sri Lanka Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "f0ba6d25-a568-4563-aaa9-46abf1523284",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/sri_lanka_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/Sri_Lanka_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - United Arab Emirates Wind 50m Resolution ",
+    "description": "International - United Arab Emirates Wind 50m Resolution ",
+    "keyword": "international, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "389cb283-2af9-4b1c-a45c-c4a7318ed11c",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/ae_wind_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Wind/High_Resolution/United_Arab_Emirates_Wind_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Caribbean 40km Direct Normal",
+    "description": "International - Caribbean 40km Direct Normal",
+    "keyword": "international, map",
+    "modified": "2003-12-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "d25ed6f5-063f-4ff6-b331-efba3b418695",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/csr_carib_dni.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Solar/Low_Resolution/Caribbean_40km_Direct_Normal.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Caribbean 40km Global Horizontal ",
+    "description": "International - Caribbean 40km Global Horizontal ",
+    "keyword": "international, map",
+    "modified": "2003-12-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "0d20c590-097e-4e59-be74-b57231054ab0",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/csr_carib_diffuse.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Solar/Low_Resolution/Caribbean_40km_Global_Horizontal.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "International - Caribbean 40km Tilt Equals Latitude",
+    "description": "International - Caribbean 40km Tilt Equals Latitude",
+    "keyword": "international, map",
+    "modified": "2003-12-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "bb0b31d0-862a-42fb-a3d7-fbab057a8845",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_international.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/csr_carib_PV.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/Solar/Low_Resolution/Caribbean_40km_Tilt_Equals_Latitude.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Marine & Hydrokinetic - Wave Power Density",
+    "description": "Marine & Hydrokinetic - Wave Power Density",
+    "keyword": "marine & hydrokinetic, map",
+    "modified": "2011-10-20",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "861752a7-012f-4000-9487-ee9ee51a8416",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_mhk.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/wave_power_density.xml",
+    "distribution": [
+      {
+        "accessURL": "http://en.openei.org/datasets/files/868/pub/wave_power_density.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Marine & Hydrokinetic - Wave Energy Period",
+    "description": "Marine & Hydrokinetic - Wave Energy Period",
+    "keyword": "marine & hydrokinetic, map",
+    "modified": "2011-10-20",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "893d5e3e-70a9-4164-9217-a496551f6d30",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_mhk.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/wave_energy_period.xml",
+    "distribution": [
+      {
+        "accessURL": "http://en.openei.org/datasets/files/868/pub/wave_energy_period.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Marine & Hydrokinetic - Significant Wave Height",
+    "description": "Marine & Hydrokinetic - Significant Wave Height",
+    "keyword": "marine & hydrokinetic, map",
+    "modified": "2011-10-20",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "83bb3ef3-91b2-40d5-9c46-e74929f7b3f3",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_mhk.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/wave_significant_height.xml",
+    "distribution": [
+      {
+        "accessURL": "http://en.openei.org/datasets/files/868/pub/wave_significant_height.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Marine & Hydrokinetic - Wave Hindcast",
+    "description": "Marine & Hydrokinetic - Wave Hindcast",
+    "keyword": "marine & hydrokinetic, map",
+    "modified": "2011-10-20",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "31a289ab-b25b-462e-84f8-c5b07b2c47c9",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_mhk.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/wave_hindcast.xml",
+    "distribution": [
+      {
+        "accessURL": "http://en.openei.org/datasets/files/868/pub/wave_hindcast_direction.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Marine & Hydrokinetic - Wave Study Depth",
+    "description": "Marine & Hydrokinetic - Wave Study Depth",
+    "keyword": "marine & hydrokinetic, map",
+    "modified": "2011-10-20",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "87b3a9df-c336-424b-82a4-4073e7f9d2a0",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_mhk.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/International/metadata/wave_depth.xml",
+    "distribution": [
+      {
+        "accessURL": "http://en.openei.org/datasets/files/868/pub/wave_depth.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Solar - Lower 48 and Hawaii DNI 10km Resolution 1998 to 2009",
+    "description": "Solar - Lower 48 and Hawaii DNI 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-09-12",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "5e9d683b-1a78-4e34-a482-78f956f4d8e2",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/us_dni.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/us9809_dni_updated.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Lower%2048%20and%20Hawaii%20updated%2010km%20Concentrating%20Solar%20Radiation%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 and Hawaii GHI 10km Resolution 1998 to 2009",
+    "description": "Solar - Lower 48 and Hawaii GHI 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-09-12",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "bf9e7989-dd30-47b3-915e-ce38fb24048c",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/us_ghi.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/us9809_ghi_updated.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Lower%2048%20and%20Hawaii%20updated%2010km%20Global%20Horizontal%20Solar%20Radiation%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 and Hawaii PV 10km Resolution 1998 to 2009",
+    "description": "Solar - Lower 48 and Hawaii PV 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-09-12",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "d43097c6-598c-4cca-9552-5d217c67e9f7",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/us_latilt.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/us9809_latilt_updated.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Lower%2048%20and%20Hawaii%20updated%2010km%20Photovoltaic%20Solar%20Radiation%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 DNI 10km Resolution 1998 to 2005",
+    "description": "Solar - Lower 48 DNI 10km Resolution 1998 to 2005",
+    "keyword": "solar, map",
+    "modified": "2010-12-13",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "5717c977-044e-44af-889c-e3d2e57c8c0a",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/dni_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Lower_48_DNI_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%2010km%20Direct%20Normal%20Solar%20Radiation%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 GHI 10km Resolution 1998 to 2005",
+    "description": "Solar - Lower 48 GHI 10km Resolution 1998 to 2005",
+    "keyword": "solar, map",
+    "modified": "2011-04-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "0d33a624-703f-4248-98da-54b3e4ea131f",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/l48_ghi_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Lower_48_GHI_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%2010km%20GHI%20Data.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 PV 10km Resolution 1998 to 2005",
+    "description": "Solar - Lower 48 PV 10km Resolution 1998 to 2005",
+    "keyword": "solar, map",
+    "modified": "2011-03-24",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "2e0e0300-e7cc-4beb-a189-a86e35adc566",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/pv_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Lower_48_LATTILT_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%2010km%20Tilt%20Data.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Hawaii CSP 10km Resolution 1998 to 2005",
+    "description": "Solar - Hawaii CSP 10km Resolution 1998 to 2005",
+    "keyword": "solar, map",
+    "modified": "2009-05-13",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "8fef32a8-97dd-45e9-b934-772797197293",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/hi_csp_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Hawaii_CSP_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Hawaii PV 10km Resolution 1998 to 2005 ",
+    "description": "Solar - Hawaii PV 10km Resolution 1998 to 2005 ",
+    "keyword": "solar, map",
+    "modified": "2011-03-24",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "1cb0c903-075e-4374-b89e-97baf93a098b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/hi_pv_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Hawaii_PV_High_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Southwest US DNI Filtered 2-percent 10km Resolution 1998 to 2009",
+    "description": "Solar - Southwest US DNI Filtered 2-percent 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-12-04",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "bda7bae7-4061-49ea-87cc-1ef9fb98c4b3",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/dni_slope_filter_2.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Updated_10km_Southwest_US_DNI_Filtered2percent.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Southwest US DNI Filtered 3-percent 10km Resolution 1998 to 2009",
+    "description": "Solar - Southwest US DNI Filtered 3-percent 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-12-04",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "b7064484-64cc-4d32-bc51-e8e60c49898f",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/dni_slope_filter_3.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Updated_10km_Southwest_US_DNI_Filtered3percent.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Southwest US DNI Filtered 4-percent 10km Resolution 1998 to 2009",
+    "description": "Solar - Southwest US DNI Filtered 4-percent 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-12-04",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "7b97b705-010b-4af0-b06e-63c4947d0aec",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/dni_slope_filter_4.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Updated_10km_Southwest_US_DNI_Filtered4percent.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Southwest US DNI Filtered 5-percent 10km Resolution 1998 to 2009",
+    "description": "Solar - Southwest US DNI Filtered 5-percent 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-12-04",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "1edd00cd-b664-4fb3-a432-41c1ef1b4032",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/dni_slope_filter_5.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Updated_10km_Southwest_US_DNI_Filtered5percent.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Southwest US DNI Filtered Less than 1-percent 10km Resolution 1998 to 2009",
+    "description": "Solar - Southwest US DNI Filtered Less than 1-percent 10km Resolution 1998 to 2009",
+    "keyword": "solar, map",
+    "modified": "2012-12-04",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "d985babc-1c51-43bc-adb5-220cb5af8684",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/dni_slope_filter_1.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/Updated_10km_Southwest_US_DNI_FilteredLessthan1percent.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Alaska CSP 40km Resolution 1985 to 1991",
+    "description": "Solar - Alaska CSP 40km Resolution 1985 to 1991",
+    "keyword": "solar, map",
+    "modified": "2009-07-09",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "9491535d-6a78-4520-916b-563435afdf28",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/metadata/alaska_csp_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/Alaska_CSP_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Alaska PV 40km Resolution 1985 to 1991",
+    "description": "Solar - Alaska PV 40km Resolution 1985 to 1991",
+    "keyword": "solar, map",
+    "modified": "2009-07-09",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "5c67cda3-9310-4541-bb98-65082389842c",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/metadata/alaska_pv_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/Alaska_PV_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Hawaii CSP 40km Resolution 1985 to 1991",
+    "description": "Solar - Hawaii CSP 40km Resolution 1985 to 1991",
+    "keyword": "solar, map",
+    "modified": "2011-04-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "3645b186-b7b6-48d8-a282-5ccd142b09e4",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/metadata/hawaii_csp_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/Hawaii_CSP_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Hawaii PV 40km Resolution 1985 to 1991",
+    "description": "Solar - Hawaii PV 40km Resolution 1985 to 1991",
+    "keyword": "solar, map",
+    "modified": "2011-04-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "daa15ad8-d571-4e0d-b256-c1c14dbe4adf",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/metadata/hawaii_pv_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/Hawaii_PV_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 CSP 40km Resolution 1985 to 1991",
+    "description": "Solar - Lower 48 CSP 40km Resolution 1985 to 1991",
+    "keyword": "solar, map",
+    "modified": "2009-10-30",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "8e78ae16-2790-4d53-8c6b-29caceb563ff",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/metadata/lower_48_csp_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/Lower_48_CSP_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 PV 40km Resolution 1985 to 1991",
+    "description": "Solar - Lower 48 PV 40km Resolution 1985 to 1991",
+    "keyword": "solar, map",
+    "modified": "2009-04-22",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "552113d7-c0a7-4d28-8165-149083c3fadc",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/metadata/lower_48_pv_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/Lower_48_PV_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - Lower 48 PV 40km Resolution Collector Data Files 1985 to 1991",
+    "description": "Solar - Lower 48 PV 40km Resolution Collector Data Files 1985 to 1991",
+    "keyword": "solar, map",
+    "modified": "2009-02-19",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "f22aff47-8f27-4306-b701-e8a163a3c887",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/metadata/collectors_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/Low_Resolution/Lower_48_PV_Low_Resolution_Collector_Data_Files.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Solar - TMY3 NSRDB Boundaries",
+    "description": "Solar - TMY3 NSRDB Boundaries",
+    "keyword": "solar, map",
+    "modified": "2012-06-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "21accd6c-235b-4ed3-9efe-656fe55963c6",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_solar.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/metadata/nsrdb_bndry.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Solar/High_Resolution/nsrdb_boundary.zip",
+        "format": "zip"
+      }
+    ],
+    "spatial": "United States"
+  },
+  {
+    "title": "Wind - Alaska Wind 50m Resolution ",
+    "description": "Wind - Alaska Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-04-25",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "6450bbc6-ff28-4018-9c55-d748b5baa5c0",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ak_50m_metadata.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Alaska_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Alaska%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Arizona Wind 50m Resolution ",
+    "description": "Wind - Arizona Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-09",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "23d899b4-5fd0-4907-a9b0-121e35aec742",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/az_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Arizona_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Arizona%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Arkansas Wind 50m Resolution ",
+    "description": "Wind - Arkansas Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-18",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "b0f9ac64-9c41-4912-ac31-88025213321b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ar_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Arkansas_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Arkansas%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - California Wind 50m Resolution ",
+    "description": "Wind - California Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-18",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "6cb984b4-7be4-4848-b904-63dcc23922cb",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ca_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/California_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20California%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Colorado Wind 50m Resolution ",
+    "description": "Wind - Colorado Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-02-25",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "bcf4347e-5230-4a77-b54a-fbe7d788cc89",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/co_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Colorado_Wind_High_resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Colorado%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Connecticut Wind 50m Resolution ",
+    "description": "Wind - Connecticut Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "8657ba04-e87a-41fe-9046-d04eeae2351a",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ct_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Connecticut_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Connecticut%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Georgia Wind 50m Resolution ",
+    "description": "Wind - Georgia Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "4a28de42-2c64-45f5-a958-ac14c76d4c22",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ga_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Georgia_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Georgia%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Hawaii Wind 50m Resolution ",
+    "description": "Wind - Hawaii Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-05-04",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "7affce54-e0d7-4f3b-afe2-6de336364263",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/hi_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Hawaii_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Hawaii%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Illinois Wind 50m Resolution ",
+    "description": "Wind - Illinois Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-02-05",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "ad77f4be-30c4-4473-9e13-3f875ddf6de0",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/il_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Illinois_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Illinois%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Indiana Wind 50m Resolution ",
+    "description": "Wind - Indiana Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "96c52f40-ef4f-4f00-afc5-0101c3936a81",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/indiana_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Indiana_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Indiana%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Iowa Wind 50m Resolution ",
+    "description": "Wind - Iowa Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-21",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "e4cc735b-c8d6-4597-a7da-a74ac1b9bb4b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ia_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Iowa_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Iowa%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Kansas Wind 50m Resolution ",
+    "description": "Wind - Kansas Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-11-23",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "a91125a2-5d4b-4ff7-a0df-46ed2e7aec17",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/kansas_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Kansas_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Kansas%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Kentucky Wind 50m Resolution ",
+    "description": "Wind - Kentucky Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-02-25",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "3f883487-29e6-4b2b-a7ec-b576054020ad",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ky_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Kentucky_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Kentucky%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Maine Wind 50m Resolution ",
+    "description": "Wind - Maine Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "ecf58d58-29f8-4ae1-9fb4-cc1720844997",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/maine_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Maine_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Maine%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Massachusetts Wind 50m Resolution ",
+    "description": "Wind - Massachusetts Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "0927a1b1-3c91-435d-931c-ed7a35ef2470",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ma_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Massachusetts_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Massachusetts%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Michigan Wind 50m Resolution ",
+    "description": "Wind - Michigan Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "e963786c-606a-477e-b45b-e019bc42c590",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/mi_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Michigan_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Michigan%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Mid-Atlantic Regional Wind 50m Resolution(includes Delaware, Maryland, New Jersey, North Carolina, Pennsylvania, Virginia, West Virginia and the District of Columbia) ",
+    "description": "Wind - Mid-Atlantic Regional Wind 50m Resolution(includes Delaware, Maryland, New Jersey, North Carolina, Pennsylvania, Virginia, West Virginia and the District of Columbia) ",
+    "keyword": "wind, map",
+    "modified": "2012-05-21",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "c10dc9c8-c486-400e-9242-19474d46d831",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/midatlantic_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/mid_atlantic_50mWind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Mid%20Atlantic%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Minnesota Wind 50m Resolution ",
+    "description": "Wind - Minnesota Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-06-26",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "f401f03d-cfea-4067-9b5c-655123038a72",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/mn_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Minnesota_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Minnesota%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Missouri Wind 50m Resolution ",
+    "description": "Wind - Missouri Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "c199c7e4-2c47-4523-88a7-255d8b2274e3",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/mo_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Missouri_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Missouri%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Nebraska Wind 50m Resolution ",
+    "description": "Wind - Nebraska Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-02-23",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "70c9d1b0-5b23-489f-891d-c36bb4b46ceb",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ne_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Nebraska_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Nebraska%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Nevada Wind 50m Resolution ",
+    "description": "Wind - Nevada Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-18",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "de8b6720-77e7-430d-baa7-20fec761ff24",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/nv_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Nevada_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Nevada%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - New England Regional Wind 50m Resolution (includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont)",
+    "description": "Wind - New England Regional Wind 50m Resolution (includes Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont)",
+    "keyword": "wind, map",
+    "modified": "2010-09-30",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "e30d0e03-7816-4726-af5d-c04e23f63113",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/new_england_regional_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/New_England_Regional_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20New%20England%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - New Hampshire Wind 50m Resolution ",
+    "description": "Wind - New Hampshire Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "f3c28086-c22d-4f06-96af-11b3a801466a",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/nh_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/New_Hampshire_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20New%20Hampshire%2050m%20Wind.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - New Mexico Wind 50m Resolution ",
+    "description": "Wind - New Mexico Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-18",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "53f733f6-7de8-41e4-95aa-6bf4db53c8ca",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/nm_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/New_Mexico_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20New%20Mexico%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - New York Wind 50m Resolution ",
+    "description": "Wind - New York Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-22",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "9ca01142-9437-4ec8-8541-d33548f6f481",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ny_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/New_York_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20New%20York%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - North and South Dakota Wind 50m Resolution ",
+    "description": "Wind - North and South Dakota Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-17",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "748badfd-57ae-471e-bdeb-e5b2d8f8a24a",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/nd_sd_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/North_South_Dakota_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20North%20and%20South%20Dakota%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Ohio Wind 50m Resolution ",
+    "description": "Wind - Ohio Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "5c660bda-9549-4282-8d6c-13a73b0798f4",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/oh_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Ohio_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Ohio%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Oklahoma Wind 50m Resolution ",
+    "description": "Wind - Oklahoma Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-06-04",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "ef094ea6-59a3-43cd-894d-0ae6dcee485b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ok_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Oklahoma_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Oklahoma%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Pacific Northwest Regional Wind 50m Resolution (includes Idaho, Montana, Oregon, Washington and Wyoming) ",
+    "description": "Wind - Pacific Northwest Regional Wind 50m Resolution (includes Idaho, Montana, Oregon, Washington and Wyoming) ",
+    "keyword": "wind, map",
+    "modified": "2012-06-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "b34f40cc-403c-4472-b0f1-cf176573221e",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/pacific_northwest_regional_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/pacific_northwest_50m_Wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Pacific%20Northwest%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Puerto Rico and Virgin Islands Wind 50m Resolution ",
+    "description": "Wind - Puerto Rico and Virgin Islands Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-04-01",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "8bbc999f-98d1-412a-9858-2531de5832dd",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/pr_vi_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Puerto_Rico_Virgin_Islands_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Puerto%20Rico%20Virgin%20Islands%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Rhode Island Wind 50m Resolution ",
+    "description": "Wind - Rhode Island Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-02-20",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "9c2fe10f-8a30-400f-ade5-50862950b6b0",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ri_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Rhode_Island_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Rhode%20Island%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - South Carolina Wind 50m Resolution ",
+    "description": "Wind - South Carolina Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-18",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "d4a1d1a5-a209-460d-ae54-a988f4254ca7",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/sc_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/South_Carolina_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20South%20Carolina%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Tennessee Wind 50m Resolution ",
+    "description": "Wind - Tennessee Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2009-03-02",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "40405c1d-6f2f-4ba7-96c7-069a81b03d51",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/tn_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Tennessee_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Tennessee%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Texas Wind 50m Resolution ",
+    "description": "Wind - Texas Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-06-22",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "000f751e-d4ec-4963-8967-8ea436f6f519",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/TX_50m_wind.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Texas_50m_Wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Texas%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Utah Wind 50m Resolution ",
+    "description": "Wind - Utah Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-18",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "7333a594-81d3-4d12-ac93-7bcc41b034e0",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/ut_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Utah_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Utah%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Vermont Wind 50m Resolution ",
+    "description": "Wind - Vermont Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-05-18",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "d1f32ca3-f59a-4910-85f5-43e7e3513f5f",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/vermont_50m_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Vermont_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Vermont%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Wisconsin Wind 50m Resolution ",
+    "description": "Wind - Wisconsin Wind 50m Resolution ",
+    "keyword": "wind, map",
+    "modified": "2012-06-26",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "820e3a79-56e9-4180-bd3e-e641dded4295",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/Wisconsin_50m_Wind.shp.xml",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Wisconsin_50m_wind.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Wisconsin%2050m%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Atlantic Coast 90m Windspeed Offshore Wind",
+    "description": "Wind - Atlantic Coast 90m Windspeed Offshore Wind",
+    "keyword": "wind, map",
+    "modified": "2012-06-26",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "9b88eff9-af1c-40af-a296-b99c566dd025",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/atlantic_coast_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Atlantic_Coast_90m_Windspeed_Offshore_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Atlantic%20Coast%2090m%20Offshore%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Great Lakes 90m Windspeed Offshore Wind",
+    "description": "Wind - Great Lakes 90m Windspeed Offshore Wind",
+    "keyword": "wind, map",
+    "modified": "2010-08-23",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "bd011952-e35d-45dd-b210-f9a76b93842b",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/great_lakes_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Great_Lakes_90mWindspeed_Offshore_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Great%20Lakes%2090m%20Offshore%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Gulf of Mexico 90m Windspeed Offshore Wind",
+    "description": "Wind - Gulf of Mexico 90m Windspeed Offshore Wind",
+    "keyword": "wind, map",
+    "modified": "2010-08-23",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "8b6ab46c-5e9e-40e7-b9b6-cb8d5169b517",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/gulf_of_mexico_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Gulf_of_Mexico_90mWindspeed_Offshore_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Gulf%20of%20Mexico%2090m%20Offshore%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Hawaii 90m Windspeed Offshore Wind",
+    "description": "Wind - Hawaii 90m Windspeed Offshore Wind",
+    "keyword": "wind, map",
+    "modified": "2010-08-23",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "3ce7f8ae-2b5e-43eb-9fa7-f80b9ec76684",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/90m_hawaii_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Hawaii_90mWindspeed_Offshore_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Hawaii%2090m%20Offshore%20Wind%20Resource.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Pacific Coast 90m Windspeed Offshore Wind",
+    "description": "Wind - Pacific Coast 90m Windspeed Offshore Wind",
+    "keyword": "wind, map",
+    "modified": "2010-08-23",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "4281d3ed-1f9d-483d-8c91-a0c568eed6f4",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/metadata/pacific_coast_90mwindspeed_off.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/High_Resolution/Pacific_Coast_90mWindspeed_Offshore_Wind_High_Resolution.zip",
+        "format": "zip"
+      },
+      {
+        "accessURL": "http://gisatnrel.nrel.gov/ArcGIS/kml/NREL%20Pacific%20Coast%2090m%20OffShore%20Wind.kmz",
+        "format": "kmz"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Alaska Wind 25-km",
+    "description": "Wind - Alaska Wind 25-km",
+    "keyword": "wind, map",
+    "modified": "2011-04-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "55a09d87-9b3c-47a8-8659-8967273c0789",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/Low_Resolution/metadata/alaska_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/Low_Resolution/Alaska_Wind_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Hawaii Wind 25-km",
+    "description": "Wind - Hawaii Wind 25-km",
+    "keyword": "wind, map",
+    "modified": "2011-04-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "0a5d6eb9-616d-4b14-a9ad-1d8a0f5eadc1",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/Low_Resolution/metadata/hawaii_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/Low_Resolution/Hawaii_Wind_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  },
+  {
+    "title": "Wind - Lower 48 Wind 25-km",
+    "description": "Wind - Lower 48 Wind 25-km",
+    "keyword": "wind, map",
+    "modified": "2011-04-11",
+    "publisher": "National Renewable Energy Laboratory",
+    "person": "NREL Open Data",
+    "mbox": "data@nrel.gov",
+    "identifier": "039a27bf-7404-4fd7-b667-4ec2e0ecc951",
+    "accessLevel": "public",
+    "landingPage": "http://www.nrel.gov/gis/data_wind.html",
+    "dataDictionary": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/Low_Resolution/metadata/l48_metadata.htm",
+    "distribution": [
+      {
+        "accessURL": "http://www.nrel.gov/gis/cfm/data/GIS_Data_Technology_Specific/United_States/Wind/Low_Resolution/Lower_48_Wind_Low_Resolution.zip",
+        "format": "zip"
+      }
+    ]
+  }
+]
