@@ -1,0 +1,18 @@
+[{
+    "accessURL": "https://data.consumerfinance.gov/api/views/x94z-ydhh/rows.csv?accessType=DOWNLOAD",
+    "publisher": "CFPB",
+    "accessLevel": "Public",
+    "description": "These are complaints we\u2019ve received about financial products and services.",
+    "keyword": "Consumer-Finance, CFPB, Financial-Institutions, Lending",
+    "title": "Consumer Complaint Data",
+    "temporal": "true",
+    "format": "csv",
+    "modified": "2013-09-26",
+    "person": "Matt Bailey",
+    "spatial": "zip5",
+    "license": "CC0",
+    "dataDictionary": "http://www.consumerfinance.gov/complaintdatabase/technical-documentation/#field-reference",
+    "identifier": "CCDB 2.1",
+    "mbox": "matthew.bailey@cfpb.gov",
+    "webService": "endpoint"
+}]
