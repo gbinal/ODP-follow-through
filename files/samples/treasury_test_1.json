@@ -71,6 +71,82 @@
     ]
   },
   {
+    "title": "Interest Rate Statistics - Daily Treasury Yield Curve Rates (2005)",
+    "description": "Treasury Yield Curve Rates. These rates are commonly referred to as \"Constant Maturity Treasury\" rates, or CMTs. Yields are interpolated by the Treasury from the daily yield curve. This curve, which relates the yield on a security to its time to maturity is based on the closing market bid yields on actively traded Treasury securities in the over-the-counter market. These market yields are calculated from composites of quotations obtained by the Federal Reserve Bank of New York. The yield values are read from the yield curve at fixed maturities, currently 1, 3 and 6 months and 1, 2, 3, 5, 7, 10, 20, and 30 years. This method provides a yield for a 10 year maturity, for example, even if no outstanding security has exactly 10 years remaining to maturity.",
+    "keyword": [
+      "aa",
+      "daily yield curve",
+      "interest",
+      "interest rates",
+      "rates",
+      "real yield curve",
+      "statistics",
+      "yield",
+      "yield curve"
+    ],
+    "modified": "2013-11-21T05:07:53.503824",
+    "publisher": "Department of the Treasury",
+    "organization": "Department of the Treasury",
+    "contactPoint": "Office of the Chief Information Officer, Departmental Offices",
+    "mbox": "digital@treasury.gov",
+    "identifier": "TREAS-424",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.treasury.gov/offices/domestic-finance/debt-management/interest-rate/yieldmethod.html",
+    "accessURL": "http://www.treas.gov/offices/domestic-finance/debt-management/interest-rate/yield_historical_2005.xml",
+    "format": "XML",
+    "spatial": "Global",
+    "temporal": "2005",
+    "issued": "January 2005",
+    "accrualPeriodicity": "One-time",
+    "dataQuality": true,
+    "relatedDocuments": "http://www.treasury.gov/privacy.htm",
+    "distribution": [
+      {
+        "identifier": "4dc6f882-f8fd-40fd-849f-7a8195b2419b",
+        "accessURL": "http://www.treas.gov/offices/domestic-finance/debt-management/interest-rate/yield_historical_2005.xml",
+        "format": "XML"
+      }
+    ]
+  },
+  {
+    "title": "Interest Rate Statistics - Daily Treasury Yield Curve Rates (2005)",
+    "description": "Treasury Yield Curve Rates. These rates are commonly referred to as \"Constant Maturity Treasury\" rates, or CMTs. Yields are interpolated by the Treasury from the daily yield curve. This curve, which relates the yield on a security to its time to maturity is based on the closing market bid yields on actively traded Treasury securities in the over-the-counter market. These market yields are calculated from composites of quotations obtained by the Federal Reserve Bank of New York. The yield values are read from the yield curve at fixed maturities, currently 1, 3 and 6 months and 1, 2, 3, 5, 7, 10, 20, and 30 years. This method provides a yield for a 10 year maturity, for example, even if no outstanding security has exactly 10 years remaining to maturity.",
+    "keyword": [
+      "aa",
+      "daily yield curve",
+      "interest",
+      "interest rates",
+      "rates",
+      "real yield curve",
+      "statistics",
+      "yield",
+      "yield curve"
+    ],
+    "modified": "2013-11-21T05:07:53.503824",
+    "publisher": "Department of the Treasury",
+    "organization": "Department of the Treasury",
+    "contactPoint": "Office of the Chief Information Officer, Departmental Offices",
+    "mbox": "digital@treasury.gov",
+    "identifier": "TREAS-424",
+    "accessLevel": "public",
+    "dataDictionary": "http://www.treasury.gov/offices/domestic-finance/debt-management/interest-rate/yieldmethod.html",
+    "accessURL": "http://www.treas.gov/offices/domestic-finance/debt-management/interest-rate/yield_historical_2005.xml",
+    "format": "XML",
+    "spatial": "Global",
+    "temporal": "2005",
+    "issued": "January 2005",
+    "accrualPeriodicity": "One-time",
+    "dataQuality": true,
+    "relatedDocuments": "http://www.treasury.gov/privacy.htm",
+    "distribution": [
+      {
+        "identifier": "4dc6f882-f8fd-40fd-849f-7a8195b2419b",
+        "accessURL": "http://www.treas.gov/offices/domestic-finance/debt-management/interest-rate/yield_historical_2005.xml",
+        "format": "XML"
+      }
+    ]
+  },
+  {
     "title": "Interest Rate Statistics - Daily Treasury Yield Curve Rates (2004)",
     "description": "Treasury Yield Curve Rates. These rates are commonly referred to as \"Constant Maturity Treasury\" rates, or CMTs. Yields are interpolated by the Treasury from the daily yield curve. This curve, which relates the yield on a security to its time to maturity is based on the closing market bid yields on actively traded Treasury securities in the over-the-counter market. These market yields are calculated from composites of quotations obtained by the Federal Reserve Bank of New York. The yield values are read from the yield curve at fixed maturities, currently 1, 3 and 6 months and 1, 2, 3, 5, 7, 10, 20, and 30 years. This method provides a yield for a 10 year maturity, for example, even if no outstanding security has exactly 10 years remaining to maturity.",
     "keyword": [
