@@ -1,0 +1,58 @@
+{
+    "XML": {
+        "version": 1,
+        "encoding": "UTF-8"
+    },
+    "Import": {
+        "Row": [
+            {
+                "SEC_x0020_FILE": "270-22",
+                "Creator": "Investment Management",
+                "Product": "Form 13F",
+                "FORMAT": "HTML/ASCII/XML",
+                "Access_x0020_Control": "Public",
+                "Description": "Form 13F, Report of Institutional Investment Managers pursuant to Section 13(f) of the Securities Exchange Act of 1934",
+                "Email_x0020_": "opengov@sec.gov\r",
+                "Contact_x0020_Name": "Thomas Zellers",
+                "Bureau_x0020_Code": 449,
+                "Last_x0020_Update_x0020_Date": "Variable",
+                "Publisher": "EDGAR",
+                "Reviewer_x0020_Comments": "",
+                "Item_x0020_Type": "Item",
+                "Path": "sites/OIT/EDM/Lists/opendatapolicies"
+            },
+            {
+                "SEC_x0020_FILE": "270-022",
+                "Creator": "Investment Management",
+                "Product": "Form N-2",
+                "FORMAT": "HTML/ASCII",
+                "Access_x0020_Control": "Public",
+                "Description": "Form N-2 under the Investment Company Act of 1940 and Securities Act of 1933, Registration Statement of Closed-End Management Investment Companies",
+                "Email_x0020_": "opengov@sec.gov\r",
+                "Contact_x0020_Name": "Thomas Zellers",
+                "Bureau_x0020_Code": 449,
+                "Last_x0020_Update_x0020_Date": "Variable",
+                "Publisher": "EDGAR",
+                "Reviewer_x0020_Comments": "",
+                "Item_x0020_Type": "Item",
+                "Path": "sites/OIT/EDM/Lists/opendatapolicies"
+            },
+            {
+                "SEC_x0020_FILE": "270-42",
+                "Creator": "Investment Management",
+                "Product": "Form ADV Part 2",
+                "FORMAT": "PDF",
+                "Access_x0020_Control": "Public",
+                "Description": "Rule 204-3 (17 CFR 275.204-3) under the Investment Advisers Act of 1940, Form ADV Part 2 brochures provided to clients",
+                "Email_x0020_": "opengov@sec.gov\r",
+                "Contact_x0020_Name": "Thomas Zellers",
+                "Bureau_x0020_Code": 449,
+                "Last_x0020_Update_x0020_Date": "Variable",
+                "Publisher": "FINRA",
+                "Reviewer_x0020_Comments": "",
+                "Item_x0020_Type": "Item",
+                "Path": "sites/OIT/EDM/Lists/opendatapolicies"
+            }
+        ]
+    }
+}
