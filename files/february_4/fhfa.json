@@ -62,7 +62,7 @@
     "license": "Public Domain",
     "spatial": "United States",
     "temporal": null,
-    "theme": "Housing, Business",
+    "theme": ["Housing", "Business"],
     "dataDictionary": "http://www.fhfa.gov/webfiles/16679/Member%20Data%20Definitions",
     "dataQuality": true,
     "accrualPeriodicity": "quarterly",
