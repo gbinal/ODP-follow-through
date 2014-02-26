@@ -2,7 +2,7 @@
     {
         "title": "Data Catalog",
         "description": "Version 1.0",
-        "keyword": "catalog",
+        "keyword": ["catalog"],
         "modified": "2013-11-15",
         "publisher": "US Department of Housing and Urban Development",
         "contactPoint": "Shula Markland",
@@ -11,15 +11,15 @@
         "accessLevel": "public",
         "dataDictionary": "http://project-open-data.github.io/schema/",
         "accessURL": "http://hud.gov/data.json",
-        "format": "json",
-        "license": "",
-        "spatial": "",
-        "temporal": ""
+        "format": "application/json",
+        "license": null,
+        "spatial": null,
+        "temporal": null
     },
     {
         "title": "HUD Subprime and Manufactured Home Lender List",
-        "description": "The U.S. Department of Housing and Urban Development (HUD) periodically produce its HUD Subprime and Manufactured home Lender List for the lenders who specialize in either subprime or manufactured home lending, even though beginning with 2004 HMDA reporting, lenders are required to identify loans for manufactured housing and loans in which the APR on the loan exceeds a comparable Treasury APR. The HUD Subprime and Manufactured home Lender List contains the names of those lenders, their agency codes, and lender identification numbers. The agency code and lender identification numbers should be used to link to the individual HMDA loan application records (LARS). The file also contains a concatenated field, IDD, which is a combination of the agency code and lender identification number. The HUD Subprime and Manufactured home Lender List has annually been updated and revised in response to feedback from lenders, policy analysts, housing advocacy groups, and other users of the list. HUD deletes lenders and adds others based on that feedback. ",
-        "keyword": "HUD,Subprime lender list, manufactured home lender list, Home Mortgage Disclosure Act (HMDA) data, subprime loan, manufactured home loan",
+        "description": "The U.S. Department of Housing and Urban Development (HUD) periodically produce its HUD Subprime and Manufactured home Lender List for the lenders who specialize in either subprime or manufactured home lending, even though beginning with 2004 HMDA reporting, lenders are required to identify loans for manufactured housing and loans in which the APR on the loan exceeds a comparable Treasury APR. The HUD Subprime and Manufactured home Lender List contains the names of those lenders, their agency codes, and lender identification numbers. The agency code and lender identification numbers should be used to link to the individual HMDA loan application records (LARS). The file also contains a concatenated field, IDD, which is a combination of the agency code and lender identification number. The HUD Subprime and Manufactured home Lender List has annually been updated and revised in response to feedback from lenders, policy analysts, housing advocacy groups, and other users of the list. HUD deletes lenders and adds others based on that feedback. "],
+        "keyword": ["HUD","Subprime lender list", "manufactured home lender list", "Home Mortgage Disclosure Act (HMDA) data", "subprime loan", "manufactured home loan"],
         "modified": "2006-12-01",
         "publisher": "US Department of Housing and Urban Development",
         "contactPoint": "Shula Markland",
@@ -28,7 +28,7 @@
         "accessLevel": "public",
         "dataDictionary": "http://www.HUDuser.org/portal/datasets/manu.html",
         "accessURL": "http://www.HUDuser.org/portal/datasets/manu/subprime_2006_distributed.xls",
-        "format": "xls",
+        "format": "application/xls",
         "license": "public domain",
         "spatial": "USA",
         "temporal": "1993/2005"
@@ -36,7 +36,7 @@
     {
         "title": "Public Housing Physical Inspection Scores",
         "description": "HUD's Real Estate Assessment Center conducts physical inspections of properties that are owned, insured or subsidized by HUD, including public housing and multifamily assisted housing. About 20,000 such inspections are conducted each year to ensure that assisted families have housing that is decent, safe, sanitary and in good repair. The Physical Inspection Scores datasets provide a full historical view of the results of those inspections, providing point-in-time property scores. Results are available for download as a comma-delimited dataset. Separate datasets are available for public housing and for multifamily assisted properties. The results represent the inspections conducted from 2001 through September 2009. The datasets include property identifiers and location information. ",
-        "keyword": "HUD, public housing, multifamily housing, pha, physical inspection, property assessment scores, housing quality",
+        "keyword": ["HUD", "public housing", "multifamily housing", "pha", "physical inspection", "property assessment scores", "housing quality"],
         "modified": "2009-12-04",
         "publisher": "US Department of Housing and Urban Development",
         "contactPoint": "Shula Markland",
@@ -45,15 +45,15 @@
         "accessLevel": "public",
         "dataDictionary": "http://www.HUDuser.org/portal/datasets/pis/Data_Dictionary_Pub_Hsg_Property.doc",
         "accessURL": "http://www.HUDuser.org/portal/datasets/pis/public_housing_physical_inspection_scores_2011.xls",
-        "format": "xls",
+        "format": "application/xls",
         "license": "public domain",
         "spatial": "USA",
-        "temporal": "2011"
+        "temporal": "2011-01-01/2011-12-31"
     },
     {
         "title": "Multifamily Housing Physical Inspection Scores",
         "description": "HUD's Real Estate Assessment Center conducts physical inspections of properties that are owned, insured or subsidized by HUD, including public housing and multifamily assisted housing. About 20,000 such inspections are conducted each year to ensure that assisted families have housing that is decent, safe, sanitary and in good repair. The Physical Inspection Scores datasets provide a full historical view of the results of those inspections, providing point-in-time property scores. Results are available for download as a comma-delimited dataset. Separate datasets are available for public housing and for multifamily assisted properties. The results represent the inspections conducted from 2001 through September 2009. The datasets include property identifiers and location information. ",
-        "keyword": "HUD, public housing, multifamily housing, pha, physical inspection, property assessment scores, housing quality",
+        "keyword": ["HUD", "public housing", "multifamily housing", "pha", "physical inspection", "property assessment scores", "housing quality"],
         "modified": "2009-12-04",
         "publisher": "US Department of Housing and Urban Development",
         "contactPoint": "Shula Markland",
@@ -62,7 +62,7 @@
         "accessLevel": "public",
         "dataDictionary": "http://www.HUDuser.org/portal/datasets/pis/DataDictionary_Multifamily_Assisted_Property_Physical.doc",
         "accessURL": "http://www.HUDuser.org/portal/datasets/pis/Multifamily_Assisted_Property_Physical_Inspection_Dataset.txt",
-        "format": "txt",
+        "format": "text/plain",
         "license": "public domain",
         "spatial": "state",
         "temporal": "2001/2009"
@@ -70,7 +70,7 @@
     {
         "title": "Low-Income Housing Tax Credit (LIHTC) Qualified Census Tract (QCT) ",
         "description": "It allows to generate tables for Low-Income Housing Tax Credit (LIHTC) Qualified Census Tracts (QCT) and for Difficult Development Areas (DDA). LIHTC Qualified Census Tracts must have 50 percent of households with incomes below 60 percent of the Area Median Gross Income (AMGI) or have a poverty rate of 25 percent or more. DDA are designated by HUD and are based on Fair Market Rents, income limits, and the 2000 Census counts. ",
-        "keyword": "low-income housing tax credit, lihtc, qualified census tracts, qct, difficult development areas",
+        "keyword": ["low-income housing tax credit", "lihtc", "qualified census tracts", "qct", "difficult development areas"],
         "modified": "2009-10-27",
         "publisher": "US Department of Housing and Urban Development",
         "contactPoint": "Michae Hollar",
@@ -79,7 +79,7 @@
         "accessLevel": "public",
         "dataDictionary": "http://www.HUDuser.org/portal/datasets/qct.html",
         "accessURL": "http://qct.HUDuser.org/index.html",
-        "format": "tool",
+        "format": "text/html",
         "license": "public domain",
         "spatial": "census tract",
         "temporal": "2012/2013"
