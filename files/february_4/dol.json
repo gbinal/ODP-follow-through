@@ -16,7 +16,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-1",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -57,7 +57,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-10",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -97,7 +97,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-11",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -137,7 +137,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-12",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -176,7 +176,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-13",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -215,7 +215,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-14",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -256,7 +256,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-15",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -296,7 +296,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-16",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -336,7 +336,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-17",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -377,7 +377,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-18",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -417,7 +417,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-19",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -457,7 +457,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-2",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -498,7 +498,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-20",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -538,7 +538,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-21",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -578,7 +578,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-3",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -619,7 +619,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-4",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -659,7 +659,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-5",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -702,7 +702,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-6",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -743,7 +743,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-7",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -784,7 +784,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-8",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -824,7 +824,7 @@
         "contactPoint": "Al Sloane",
         "mbox": "sloane.albert@dol.gov",
         "identifier": "DOL-BG-9",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "All data is publically available",
         "bureauCode": [
             "012:025"
@@ -860,7 +860,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-100",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -896,7 +896,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-101",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -932,7 +932,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-102",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -968,7 +968,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-103",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1004,7 +1004,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-104",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1040,7 +1040,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-105",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1078,7 +1078,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1055-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1116,7 +1116,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1055-02",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1154,7 +1154,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1055-03",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1192,7 +1192,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1055-04",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1230,7 +1230,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1055-05",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1268,7 +1268,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1055-06",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1306,7 +1306,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1055-07",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1342,7 +1342,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-106",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1378,7 +1378,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-107",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1421,7 +1421,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1075-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1464,7 +1464,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1075-02",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1507,7 +1507,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1075-03",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1550,7 +1550,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1075-04",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1593,7 +1593,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1075-05",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1632,7 +1632,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-1075-06",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1668,7 +1668,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-108",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1704,7 +1704,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-109",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1740,7 +1740,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-114",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1776,7 +1776,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-115",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1812,7 +1812,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-116",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1848,7 +1848,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-117",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1884,7 +1884,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-118",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1920,7 +1920,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-119",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1956,7 +1956,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-120",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -1992,7 +1992,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-121",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2028,7 +2028,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-122",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2064,7 +2064,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-123",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2100,7 +2100,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-124",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2136,7 +2136,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-125",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2172,7 +2172,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-126",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2208,7 +2208,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-127",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2244,7 +2244,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-128",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2281,7 +2281,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-129",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2318,7 +2318,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-130",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2355,7 +2355,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-131",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2392,7 +2392,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-132",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2429,7 +2429,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-133",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2466,7 +2466,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-134",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2503,7 +2503,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-135",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2540,7 +2540,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-136",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2577,7 +2577,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-137",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2613,7 +2613,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-138",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2649,7 +2649,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-139",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2685,7 +2685,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-140",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2721,7 +2721,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-141",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2757,7 +2757,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-142",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2793,7 +2793,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-143",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2829,7 +2829,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-144",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2865,7 +2865,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-145",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2901,7 +2901,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-146",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2937,7 +2937,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-147",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -2973,7 +2973,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-148",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3009,7 +3009,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-149",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3045,7 +3045,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-150",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3081,7 +3081,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-151",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3117,7 +3117,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-152",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3153,7 +3153,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-153",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3189,7 +3189,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-154",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3225,7 +3225,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-155",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3261,7 +3261,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-156",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3297,7 +3297,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-157",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3333,7 +3333,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-158",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3369,7 +3369,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-159",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3405,7 +3405,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-160",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3441,7 +3441,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-161",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3477,7 +3477,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-162",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3513,7 +3513,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-163",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3549,7 +3549,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-164",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3585,7 +3585,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-165",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3621,7 +3621,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-166",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3657,7 +3657,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-167",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3693,7 +3693,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-168",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3729,7 +3729,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-169",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3767,7 +3767,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-17",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3803,7 +3803,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-173",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3841,7 +3841,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-18",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3879,7 +3879,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-19",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3923,7 +3923,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-193",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3961,7 +3961,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-194",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -3999,7 +3999,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-195",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4037,7 +4037,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-196",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4074,7 +4074,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-197",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4117,7 +4117,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-198",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4158,7 +4158,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-199",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4196,7 +4196,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-20",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4233,7 +4233,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-200",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4275,7 +4275,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-201",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4316,7 +4316,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-202",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4357,7 +4357,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-203",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4393,7 +4393,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-204",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4430,7 +4430,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-205",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4466,7 +4466,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-206",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4503,7 +4503,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-207",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4539,7 +4539,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-208",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4578,7 +4578,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-209",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4616,7 +4616,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-21",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4655,7 +4655,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-210",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4694,7 +4694,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-211",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4733,7 +4733,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-212",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4772,7 +4772,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-213",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4811,7 +4811,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-214",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4850,7 +4850,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-215",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4889,7 +4889,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-216",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4926,7 +4926,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-217",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -4962,7 +4962,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-218",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5003,7 +5003,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-219",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5041,7 +5041,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-22",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5079,7 +5079,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-23",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5117,7 +5117,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-24",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5155,7 +5155,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-25",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5193,7 +5193,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-26",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5231,7 +5231,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-27",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5269,7 +5269,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-28",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5307,7 +5307,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-29",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5346,7 +5346,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3000-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5386,7 +5386,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3005-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5426,7 +5426,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3010-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5466,7 +5466,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3010-02",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5506,7 +5506,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3010-03",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5545,7 +5545,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3010-04",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5586,7 +5586,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3015-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5629,7 +5629,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3020-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5672,7 +5672,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3020-02",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5715,7 +5715,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3020-03",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5758,7 +5758,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3020-04",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5801,7 +5801,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3020-05",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5841,7 +5841,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3050-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5882,7 +5882,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3060-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5923,7 +5923,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3070-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -5967,7 +5967,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3085-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6007,7 +6007,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3115-00",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6048,7 +6048,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3115-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6089,7 +6089,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3115-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6130,7 +6130,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3115-02",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6171,7 +6171,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3115-03",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6208,7 +6208,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-33",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6245,7 +6245,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-34",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6283,7 +6283,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3420-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6320,7 +6320,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-35",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6359,7 +6359,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3530-01",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6398,7 +6398,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3535-02",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6437,7 +6437,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3535-03",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6477,7 +6477,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@bls.gov",
         "identifier": "DOL-BLS-3535-04",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6514,7 +6514,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-36",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6551,7 +6551,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-37",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6588,7 +6588,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-38",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6625,7 +6625,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-39",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6662,7 +6662,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-40",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6699,7 +6699,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-41",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6736,7 +6736,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-42",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6773,7 +6773,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-43",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6810,7 +6810,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-44",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6847,7 +6847,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-45",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6884,7 +6884,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-46",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6921,7 +6921,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-47",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6958,7 +6958,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-48",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -6995,7 +6995,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-49",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7031,7 +7031,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-64",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7067,7 +7067,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-65",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7103,7 +7103,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-66",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7139,7 +7139,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-67",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7175,7 +7175,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-68",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7211,7 +7211,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-69",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7247,7 +7247,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-70",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7283,7 +7283,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-71",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7319,7 +7319,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-72",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7355,7 +7355,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-73",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7391,7 +7391,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-74",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7427,7 +7427,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-75",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7463,7 +7463,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-76",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7499,7 +7499,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-77",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7535,7 +7535,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-78",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7571,7 +7571,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-79",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7607,7 +7607,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-80",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7643,7 +7643,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-81",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7680,7 +7680,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-82",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7717,7 +7717,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-83",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7754,7 +7754,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-84",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7791,7 +7791,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-85",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7827,7 +7827,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-86",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7863,7 +7863,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-87",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7899,7 +7899,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-88",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7935,7 +7935,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-89",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -7971,7 +7971,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-90",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -8007,7 +8007,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-95",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -8043,7 +8043,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-96",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -8079,7 +8079,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-97",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -8115,7 +8115,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-98",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -8151,7 +8151,7 @@
         "contactPoint": "Amrit Kohli",
         "mbox": "kohli.amrit@dol.gov",
         "identifier": "DOL-BLS-99",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:20"
@@ -8234,7 +8234,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-110",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8270,7 +8270,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-111",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8306,7 +8306,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-112",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8342,7 +8342,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-113",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8378,7 +8378,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-172",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8414,7 +8414,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-173",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8450,7 +8450,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-175",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8486,7 +8486,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-176",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8522,7 +8522,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-177",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8559,7 +8559,7 @@
         "contactPoint": "Rob Jordan",
         "mbox": "jordan.rob@dol.gov",
         "identifier": "DOL-ETA-178",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8604,7 +8604,7 @@
         "contactPoint": "Jonathan Simonetta",
         "mbox": "simonetta.jonathan@dol.gov",
         "identifier": "DOL-ETA-221",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8653,7 +8653,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-222",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8702,7 +8702,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-223",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8751,7 +8751,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-238",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8800,7 +8800,7 @@
         "contactPoint": "Jonathan Simonetta",
         "mbox": "simonetta.jonathan@dol.gov",
         "identifier": "DOL-ETA-239",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8854,7 +8854,7 @@
         "contactPoint": "Jonathan Simonetta",
         "mbox": "simonetta.jonathan@dol.gov",
         "identifier": "DOL-ETA-240",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8890,7 +8890,7 @@
         "contactPoint": "Rob Jordan",
         "mbox": "jordan.rob@dol.gov",
         "identifier": "DOL-ETA-382",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8926,7 +8926,7 @@
         "contactPoint": "Rob Jordan",
         "mbox": "jordan.rob@dol.gov",
         "identifier": "DOL-ETA-383",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8962,7 +8962,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-92",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -8998,7 +8998,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-93",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -9034,7 +9034,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-ETA-94",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -9070,7 +9070,7 @@
         "contactPoint": "Aquila Branch",
         "mbox": "branch.aquila@dol.gov",
         "identifier": "DOL-JC-233",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -9106,7 +9106,7 @@
         "contactPoint": "Aquila Branch",
         "mbox": "branch.aquila@dol.gov",
         "identifier": "DOL-JC-234",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -9142,7 +9142,7 @@
         "contactPoint": "Aquila Branch",
         "mbox": "branch.aquila@dol.gov",
         "identifier": "DOL-JC-235",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -9178,7 +9178,7 @@
         "contactPoint": "Aquila Branch",
         "mbox": "branch.aquila@dol.gov",
         "identifier": "DOL-JC-236",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -9419,7 +9419,7 @@
         "contactPoint": "William West - Publishing, Carolyn Stasik - Content",
         "mbox": "west.william@dol.gov, stasik.carolyn@dol.gov",
         "identifier": "DOL-MSHA-15",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:19"
@@ -9458,7 +9458,7 @@
         "contactPoint": "Tony Russo",
         "mbox": "russo.anthony@dol.gov",
         "identifier": "DOL-MSHA-15",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:19"
@@ -9938,7 +9938,7 @@
         "contactPoint": "Tony Russo",
         "mbox": "russo.anthony@dol.gov",
         "identifier": "DOL-MSHA-53",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:19"
@@ -9976,7 +9976,7 @@
         "contactPoint": "Tony Russo",
         "mbox": "russo.anthony@dol.gov",
         "identifier": "DOL-MSHA-54",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:19"
@@ -10012,7 +10012,7 @@
         "contactPoint": "Tony Russo",
         "mbox": "russo.anthony@dol.gov",
         "identifier": "DOL-MSHA-55",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:19"
@@ -10048,7 +10048,7 @@
         "contactPoint": "Tony Russo",
         "mbox": "russo.anthony@dol.gov",
         "identifier": "DOL-MSHA-56",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:19"
@@ -10098,7 +10098,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-OASP-8",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10207,7 +10207,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-178",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10244,7 +10244,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-179",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10281,7 +10281,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-180",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10318,7 +10318,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-181",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10355,7 +10355,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-182",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10392,7 +10392,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-183",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10429,7 +10429,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-184",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10466,7 +10466,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-185",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10503,7 +10503,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-186",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10540,7 +10540,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-187",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10577,7 +10577,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-188",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10614,7 +10614,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-189",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10651,7 +10651,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-190",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10688,7 +10688,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-191",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10725,7 +10725,7 @@
         "contactPoint": "Michael Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-192",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10762,7 +10762,7 @@
         "contactPoint": "Mike Pulsifer",
         "mbox": "mike.pulsifer@dol.gov",
         "identifier": "DOL-OPA-2",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10799,7 +10799,7 @@
         "contactPoint": "Mike Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-3",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10836,7 +10836,7 @@
         "contactPoint": "Mike Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-4",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10873,7 +10873,7 @@
         "contactPoint": "Mike Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-5",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10910,7 +10910,7 @@
         "contactPoint": null,
         "mbox": null,
         "identifier": "DOL-OPA-57",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10947,7 +10947,7 @@
         "contactPoint": "Mike Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-6",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -10983,7 +10983,7 @@
         "contactPoint": "Mike Pulsifer",
         "mbox": "pulsifer.michael@dol.gov",
         "identifier": "DOL-OPA-7",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:25"
@@ -11020,7 +11020,7 @@
         "contactPoint": "Gizaw Legesse",
         "mbox": "legesse.gizaw@dol.gov",
         "identifier": "DOL-OSHA-10",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11057,7 +11057,7 @@
         "contactPoint": "Gizaw Legesse",
         "mbox": "legesse.gizaw@dol.gov",
         "identifier": "DOL-OSHA-11",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11094,7 +11094,7 @@
         "contactPoint": "Gizaw Legesse",
         "mbox": "legesse.gizaw@dol.gov",
         "identifier": "DOL-OSHA-12",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11131,7 +11131,7 @@
         "contactPoint": "Gizaw Legesse",
         "mbox": "legesse.gizaw@dol.gov",
         "identifier": "DOL-OSHA-13",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11168,7 +11168,7 @@
         "contactPoint": "Gizaw Legesse",
         "mbox": "legesse.gizaw@dol.gov",
         "identifier": "DOL-OSHA-14",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11206,7 +11206,7 @@
         "contactPoint": "Keith Motley",
         "mbox": "motley.keith@dol.gov",
         "identifier": "DOL-OSHA-30",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11244,7 +11244,7 @@
         "contactPoint": "Keith Motley",
         "mbox": "motley.keith@dol.gov",
         "identifier": "DOL-OSHA-31",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11282,7 +11282,7 @@
         "contactPoint": "Keith Motley",
         "mbox": "motley.keith@dol.gov",
         "identifier": "DOL-OSHA-32",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11320,7 +11320,7 @@
         "contactPoint": "Keith Motley",
         "mbox": "motley.keith@dol.gov",
         "identifier": "DOL-OSHA-50",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11357,7 +11357,7 @@
         "contactPoint": "Keith Motley",
         "mbox": "motley.keith@dol.gov",
         "identifier": "DOL-OSHA-51",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11393,7 +11393,7 @@
         "contactPoint": "Gizaw Legesse",
         "mbox": "legesse.gizaw@dol.gov",
         "identifier": "DOL-OSHA-9",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:18"
@@ -11430,7 +11430,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-1",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11466,7 +11466,7 @@
         "contactPoint": "William Ketelhut",
         "mbox": "Ketelhut.William@dol.gov",
         "identifier": "DOL-OWCP-10",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11502,7 +11502,7 @@
         "contactPoint": "William Ketelhut",
         "mbox": "Ketelhut.William@dol.gov",
         "identifier": "DOL-OWCP-11",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11539,7 +11539,7 @@
         "contactPoint": "Shantoyia Gates",
         "mbox": "Gates.Shantoyia@dol.gov",
         "identifier": "DOL-OWCP-17",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11576,7 +11576,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-2",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11613,7 +11613,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-3",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11650,7 +11650,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-4",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11687,7 +11687,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-5",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11724,7 +11724,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-6",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11761,7 +11761,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-7",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11798,7 +11798,7 @@
         "contactPoint": "John E. Scott",
         "mbox": "Scott.John.E@dol.gov",
         "identifier": "DOL-OWCP-8",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11834,7 +11834,7 @@
         "contactPoint": "William Ketelhut",
         "mbox": "Ketelhut.William@dol.gov",
         "identifier": "DOL-OWCP-9",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:015"
@@ -11872,7 +11872,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-1",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:025"
@@ -11910,7 +11910,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-1",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "This data asset is already available to the Public.",
         "bureauCode": [
             "012:025"
@@ -11948,7 +11948,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-2",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:025"
@@ -11986,7 +11986,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-3",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:025"
@@ -12024,7 +12024,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-4",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:025"
@@ -12060,7 +12060,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-5",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:025"
@@ -12096,7 +12096,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-6",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:025"
@@ -12132,7 +12132,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-7",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:025"
@@ -12171,7 +12171,7 @@
         "contactPoint": "Donald Knickerbocker",
         "mbox": "knickerbocker.donald@dol.gov",
         "identifier": "DOL-SOL-9",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "This data asset is already available to the Public.",
         "bureauCode": [
             "012:025"
@@ -12208,7 +12208,7 @@
         "contactPoint": "Brandon Brown",
         "mbox": "brown.brandon@dol.gov",
         "identifier": "DOL-WHD-2",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12247,7 +12247,7 @@
         "contactPoint": "Brandon Brown",
         "mbox": "brown.brandon@dol.gov",
         "identifier": "DOL-WHD-3",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12283,7 +12283,7 @@
         "contactPoint": "Hamid Ouyachi",
         "mbox": "ouyachi.hamid@dol.gov",
         "identifier": "DOL-WHD-59",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12319,7 +12319,7 @@
         "contactPoint": "Hamid Ouyachi",
         "mbox": "ouyachi.hamid@dol.gov",
         "identifier": "DOL-WHD-60",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12356,7 +12356,7 @@
         "contactPoint": "Hamid Ouyachi",
         "mbox": "ouyachi.hamid@dol.gov",
         "identifier": "DOL-WHD-61",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12393,7 +12393,7 @@
         "contactPoint": "Hamid Ouyachi",
         "mbox": "ouyachi.hamid@dol.gov",
         "identifier": "DOL-WHD-62",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12430,7 +12430,7 @@
         "contactPoint": "Hamid Ouyachi",
         "mbox": "ouyachi.hamid@dol.gov",
         "identifier": "DOL-WHD-63",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12470,7 +12470,7 @@
         "contactPoint": "Brandon Brown",
         "mbox": "brown.brandon@dol.gov",
         "identifier": "DOL-WHD-7",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:16"
@@ -12507,7 +12507,7 @@
         "contactPoint": "Deborah M. Becker",
         "mbox": "Becker.Deborah@dol.gov",
         "identifier": "DOL-OLMS-1",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:023"
@@ -12551,7 +12551,7 @@
         "contactPoint": "Pamela Frugoli ETA FPO for the O*NET grant",
         "mbox": "frugoli.pam@dol.gov ",
         "identifier": "DOL-ETA-501",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -12595,7 +12595,7 @@
         "contactPoint": "Pamela Frugoli ETA FPO for the O*NET grant",
         "mbox": "frugoli.pam@dol.gov ",
         "identifier": "DOL-ETA-502",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -12632,7 +12632,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-503",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12669,7 +12669,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-504",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12711,7 +12711,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-505",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12748,7 +12748,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-506",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12785,7 +12785,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-507",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12821,7 +12821,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-508",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12857,7 +12857,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-509",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12893,7 +12893,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-510",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12929,7 +12929,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-511",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -12966,7 +12966,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-512",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13002,7 +13002,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-513",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13038,7 +13038,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-514",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13074,7 +13074,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-515",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13111,7 +13111,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-516",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13147,7 +13147,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-517",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13184,7 +13184,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-518",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13220,7 +13220,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-519",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13257,7 +13257,7 @@
         "contactPoint": "Mike Harding is the FPO for the CareerOneStop grant",
         "mbox": "harding.michael@dol.gov",
         "identifier": "DOL-ETA-520",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": "Non-restricted access.",
         "bureauCode": [
             "012:05"
@@ -13293,7 +13293,7 @@
         "contactPoint": "Rob Jordan",
         "mbox": "jordan.rob@dol.gov",
         "identifier": "DOL-ETA-521",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13329,7 +13329,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-522",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13365,7 +13365,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-523",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13401,7 +13401,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-524",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13437,7 +13437,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-525",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13473,7 +13473,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-526",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13509,7 +13509,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-527",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13545,7 +13545,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-528",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13581,7 +13581,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-529",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13617,7 +13617,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-530",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13653,7 +13653,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-531",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13689,7 +13689,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-532",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13725,7 +13725,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-533",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13761,7 +13761,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-534",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
@@ -13797,7 +13797,7 @@
         "contactPoint": "Karen Staha",
         "mbox": "Staha.Karen@dol.gov",
         "identifier": "DOL-ETA-535",
-        "accessLevel": "Public",
+        "accessLevel": "public",
         "accessLevelComment": null,
         "bureauCode": [
             "012:05"
