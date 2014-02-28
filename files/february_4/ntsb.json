@@ -1,0 +1,53 @@
+[  { "title": "Aviation Accidents, Fatalities, and Rates, 2011 Preliminary Statistics, U.S. Aviation",
+      "description": "Aviation Accidents, Fatalities, and Rates, 2011 Preliminary Statistics, U.S. Aviation",
+      "keyword": [ "pipeline","marine","highway","aviation","hazardous materials","safety","air carrier","fatal accidents","fatalities","airlines","passenger injuries","destroyed aircraft","aviation accident","civil aviation" ],
+      "modified": "41579",
+      "publisher": "National Transportation Safety Board",
+      "person": "Rahiq Syed",
+      "mbox": "rahiq.syed@ntsb.gov",
+      "identifier": "{56BA1270-359B-4B4B-A516-1C5065D3600E}",
+      "accessLevel": "public",
+      "spacial": "United States",
+      "temporal": "2010-01-01T00:00:00Z/2011-12-31T23:59:59Z",
+      "accrualPeriodicity": "Once", 
+      "notes": "Table 01",
+        "distribution": [  { 
+            "accessURL": "http://www.ntsb.gov/data/datafiles/table1_2012.csv",
+            "format": "csv" 
+            }  ]
+  },, { "title": "Aviation Data and Documentation from the NTSB Accident Database System",
+      "description": "Downloadable XML Format",
+      "keyword": [ "aviation","safety","air carrier","fatal accidents","fatalities","airlines","passenger injuries","destroyed aircraft","aviation accident","civil aviation" ],
+      "modified": "41638.6816065972",
+      "publisher": "National Transportation Safety Board",
+      "person": "Rahiq Syed",
+      "mbox": "rahiq.syed@ntsb.gov",
+      "identifier": "{4E3FA258-A817-4333-8D68-4559B16DA9E0}",
+      "accessLevel": "public",
+      "spacial": "Worldwide",
+      "temporal": "",
+      "accrualPeriodicity": "Once", 
+      "notes": "XML",
+        "distribution": [  { 
+            "accessURL": "http://www.ntsb.gov/aviationquery/download.ashx?type=xml",
+            "format": "xml" 
+            }  ]
+  }, { "title": "Aviation Data and Documentation from the NTSB Accident Database System",
+      "description": "Downloadable Text Format",
+      "keyword": [ "aviation","safety","air carrier","fatal accidents","fatalities","airlines","passenger injuries","destroyed aircraft","aviation accident","civil aviation" ],
+      "modified": "41638.6816065972",
+      "publisher": "National Transportation Safety Board",
+      "person": "Rahiq Syed",
+      "mbox": "rahiq.syed@ntsb.gov",
+      "identifier": "{EEB064F5-592E-4592-ABF1-F14B000972A0}",
+      "accessLevel": "public",
+      "spacial": "",
+      "temporal": "1982-01-01T00:00:00Z/2013-12-30T23:59:59Z",
+      "accrualPeriodicity": "Once", 
+      "notes": "TXT",
+        "distribution": [  { 
+            "accessURL": "http://www.ntsb.gov/aviationquery/download.ashx?type=txt",
+            "format": "txt" 
+            }  ]
+  }]
+    
