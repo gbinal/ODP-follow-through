@@ -13,7 +13,7 @@
       "notes": "Table 01",
         "distribution": [  { 
             "accessURL": "http://www.ntsb.gov/data/datafiles/table1_2012.csv",
-            "format": "csv" 
+            "format": "text/csv" 
             }  ]
   },, { "title": "Aviation Data and Documentation from the NTSB Accident Database System",
       "description": "Downloadable XML Format",
@@ -25,12 +25,12 @@
       "identifier": "{4E3FA258-A817-4333-8D68-4559B16DA9E0}",
       "accessLevel": "public",
       "spacial": "Worldwide",
-      "temporal": "",
-      "accrualPeriodicity": "Once", 
+      "temporal": null,
+      "accrualPeriodicity": "Completely irregular", 
       "notes": "XML",
         "distribution": [  { 
             "accessURL": "http://www.ntsb.gov/aviationquery/download.ashx?type=xml",
-            "format": "xml" 
+            "format": "application/xml" 
             }  ]
   }, { "title": "Aviation Data and Documentation from the NTSB Accident Database System",
       "description": "Downloadable Text Format",
@@ -41,13 +41,12 @@
       "mbox": "rahiq.syed@ntsb.gov",
       "identifier": "{EEB064F5-592E-4592-ABF1-F14B000972A0}",
       "accessLevel": "public",
-      "spacial": "",
+      "spacial": null,
       "temporal": "1982-01-01T00:00:00Z/2013-12-30T23:59:59Z",
-      "accrualPeriodicity": "Once", 
+      "accrualPeriodicity": "Completely irregular", 
       "notes": "TXT",
         "distribution": [  { 
             "accessURL": "http://www.ntsb.gov/aviationquery/download.ashx?type=txt",
-            "format": "txt" 
+            "format": "text/plain" 
             }  ]
   }]
-    
