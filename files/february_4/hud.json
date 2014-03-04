@@ -195,7 +195,6 @@
       "Section 236 program",
       " Section 235",
       " Below Market Interest Rate",
-      " BMIR",
       " National Housing Act",
       " Housing and Economic Recovery Act of 2008",
       " BMIR",
@@ -1011,7 +1010,7 @@
     "format": "text/html",
     "license": "public domain",
     "spatial": "USA",
-    "temporal": "1986-1\/2009-12"
+    "temporal": "1986-01\/2009-12"
   },
   {
     "title": "Multifamily Tax Subsidy Income Limits ",
@@ -1475,10 +1474,10 @@
     "temporal": null
   },
  {
-"title": "HUD TRM REport",    
+"title": "HUD TRM Report",    
 "description": "HUD uses certain systems and software to conduct daily business. It is important for our project managers and contractors to know the different platforms and environments in which HUD operates to select the best options for a project. ",
-    "keyword": "TRM",
-    "modified": "7\/20\/2010",
+    "keyword": ["TRM"],
+    "modified": "7-6-2010",
     "publisher": "US Department of Housing and Urban Development",
     "contactPoint": "Shula Markland",
     "BureauCode": ["034:35"],
@@ -1494,7 +1493,7 @@
   {
 "title":"2013 Promise Zones",
     "description": "This tool assists applicants to HUD's Promise Zone initiative prepare data to submit with their 2013 application by allowing applicants to draw the exact location of the area they intend to serve.",
-    "keyword": "Zones",
+    "keyword": ["Zones"],
     "modified": "2013",
     "publisher": "US Department of Housing and Urban Development",
     "contactPoint": "Ben Winter",
@@ -1511,8 +1510,8 @@
   {
 "title": "HUD Digital Government Strategy Report",   
 "description": "The HUD Digital Strategic Plan clearly articulates the goals of openness and transparency, furthering the innovation economy and meeting more global government wide digital strategies.HUD strives to open its data assets for increased consumption and usability. ",
-    "keyword": "Open Data, Digitial Strategy",
-    "modified": "12\/12\/2013",
+    "keyword": ["Open Data, Digitial Strategy"],
+    "modified": "12-12-2013",
     "publisher": "US Department of Housing and Urban Development",
     "contactPoint": "Shula Markland",
     "BureauCode": ["034:35"],
