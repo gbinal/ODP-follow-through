@@ -2,7 +2,7 @@
     {
         "title": "Acquisition Workforce Annual Report 2006",
         "description": "This is the Federal Acquisition Institute's (FAI's) Annual demographic report on the Federal acquisition workforce, showing trends by occupational series, employment grade and educational level, as well as turnover and hiring data for fiscal year (FY) 2006.",
-        "keyword": "[\"Federal acquisition workforce report\", \" Federal acquisition workforce statistics\"]",
+        "keyword": ["\"Federal acquisition workforce report\", \" Federal acquisition workforce statistics\""],
         "modified": "2009-01-31",
         "publisher": "General Services Administration",
         "contactPoint": "John P Andre",
@@ -26,7 +26,7 @@
     {
         "title": "Acquisition Workforce Annual Report 2008",
         "description": "This is the Federal Acquisition Institute's (FAI's) Annual demographic report on the Federal acquisition workforce, showing trends by occupational series, employment grade and educational level, as well as turnover and hiring data for fiscal year (FY) 2008.",
-        "keyword": "[\"Federal acquisition workforce report\", \" Federal acquisition workforce statistics\"]",
+        "keyword": ["\"Federal acquisition workforce report\", \" Federal acquisition workforce statistics\""],
         "modified": "2009-01-31",
         "publisher": "General Services Administration",
         "contactPoint": "John P Andre",
@@ -50,7 +50,7 @@
     {
         "title": "Cash and Payments Management Data",
         "description": "The Prompt Payment Act, along with the Debt Collection Improvement Act of 1996, requires the timely payment of commercial obligations for supplies and services using electronic funds transfer (EFT).",
-        "keyword": "[\"Cash and Payments Management\", \" Agency Financial Report (AFR)\", \" Financial\", \" budgeting\", \" Performance\", \" Controller\", \" Invoice\", \" Interest\", \" Interactive\"]",
+        "keyword": ["\"Cash and Payments Management\", \" Agency Financial Report (AFR)\", \" Financial\", \" budgeting\", \" Performance\", \" Controller\", \" Invoice\", \" Interest\", \" Interactive\""],
         "modified": "2010-01-19",
         "publisher": "General Services Administration",
         "contactPoint": "Vivi D Tran-Chu",
@@ -74,7 +74,7 @@
     {
         "title": "Catalog of Federal Domestic Assistance (CFDA)",
         "description": "The Catalog of Federal Domestic Assistance is a government-wide compendium of Federal programs, projects, services, and activities that provide assistance or benefits to the American public. It contains financial and nonfinancial assistance programs administered by departments and establishments of the Federal government. CFDA provides a full listing of all Federal programs available to State and local governments (including the District of Columbia); federally-recognized Indian tribal governments; Territories (and possessions) of the United States; domestic public, quasi- public, and private profit and nonprofit organizations and institutions; specialized groups; and individuals. This dataset contains all active programs in CFDA and is updated weekly.",
-        "keyword": "[\"CFDA\", \" Catalog of Federal Domestic Assistance\", \" Federal Domestic Assistance\", \" Federal Assistance Programs\", \" Program Descriptions\", \" Formula Grants\", \" Project Grants\", \" Direct Payments for Specified Use\", \" Direct Payments with Unrestricted Use\", \" Direct Loans\", \" Guarantee\"]",
+        "keyword": ["\"CFDA\", \" Catalog of Federal Domestic Assistance\", \" Federal Domestic Assistance\", \" Federal Assistance Programs\", \" Program Descriptions\", \" Formula Grants\", \" Project Grants\", \" Direct Payments for Specified Use\", \" Direct Payments with Unrestricted Use\", \" Direct Loans\", \" Guarantee\""],
         "modified": "2010-01-14",
         "publisher": "General Services Administration",
         "contactPoint": "Priscilla P Owens",
@@ -98,7 +98,7 @@
     {
         "title": "Data.gov Daily Visitor Statistics",
         "description": "This dataset provides distribution of daily visitors to the Data.gov site",
-        "keyword": "[\"daily\", \" visitor\", \" statistics\", \" Interactive\"]",
+        "keyword": ["\"daily\", \" visitor\", \" statistics\", \" Interactive\""],
         "modified": "2013-04-11",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -122,7 +122,7 @@
     {
         "title": "Data.gov Dataset Monthly Download Trends",
         "description": "This dataset provies the trend of downloads in Data.gov. These numbers represent the number of times a user has clicked on the \"XML\" or \"CSV\" (for example) links in the Raw Data Catalogs to download datasets and user downloads of tools in the Tool Catalog available in these categories.",
-        "keyword": "[\"Data.gov\", \" downloads\", \" monthly\", \" dataset\", \" Interactive\"]",
+        "keyword": ["\"Data.gov\", \" downloads\", \" monthly\", \" dataset\", \" Interactive\""],
         "modified": "2013-04-11",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -146,7 +146,7 @@
     {
         "title": "Data.gov Datasets Download by Data Category",
         "description": "This dataset provides downloads for different data categories in Data.gov. Download represents the number of times a user has clicked on the \"XML\" or \"CSV\" (for example) links in the Raw Data Catalogs to download datasets and user downloads of tools in the Tool Catalog available in these categories.",
-        "keyword": "[\"Data.gov\", \" datasets\", \" download\", \" category\", \" Interactive\"]",
+        "keyword": ["\"Data.gov\", \" datasets\", \" download\", \" category\", \" Interactive\""],
         "modified": "2013-04-11",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -170,7 +170,7 @@
     {
         "title": "Data.gov Datasets Uploaded by Agencies per Month",
         "description": "This dataset provides count of datasets uploaded by agencies per month in Data.gov",
-        "keyword": "[\"datasets\", \" uploaded\", \" agencies\", \" monthly\", \" Interactive\"]",
+        "keyword": ["\"datasets\", \" uploaded\", \" agencies\", \" monthly\", \" Interactive\""],
         "modified": "2013-05-13",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -194,7 +194,7 @@
     {
         "title": "Data.gov Federal Agency Participation",
         "description": "This dataset provides distribution of all datasets provided by all Departments/ Agencies/ Organizations in Data.gov",
-        "keyword": "[\"Data.gov\", \" federal\", \" agency\", \" participation\", \" Interactive\"]",
+        "keyword": ["\"Data.gov\", \" federal\", \" agency\", \" participation\", \" Interactive\""],
         "modified": "2013-04-11",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -218,7 +218,7 @@
     {
         "title": "Data.gov Monthly Page Views",
         "description": "This dataset provides monthly page views in Data.gov",
-        "keyword": "[\"monthly\", \" page\", \" views\", \" Interactive\"]",
+        "keyword": ["\"monthly\", \" page\", \" views\", \" Interactive\""],
         "modified": "2013-04-11",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -242,7 +242,7 @@
     {
         "title": "Data.gov Monthly Visitor Statistics",
         "description": "This dataset provides the number of visitors to Data.gov per month",
-        "keyword": "[\"Data.gov\", \" monthly\", \" visitor\", \" statistics\", \" Interactive\"]",
+        "keyword": ["\"Data.gov\", \" monthly\", \" visitor\", \" statistics\", \" Interactive\""],
         "modified": "2013-04-11",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -266,7 +266,7 @@
     {
         "title": "Data.gov Top 10 Visiting Countries",
         "description": "This dataset provides top 10 visiting countries by month in Data.gov",
-        "keyword": "[\"visiting\", \" countries\", \" Interactive\"]",
+        "keyword": ["\"visiting\", \" countries\", \" Interactive\""],
         "modified": "2013-05-13",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -290,7 +290,7 @@
     {
         "title": "Data.gov Top 10 Visiting States",
         "description": "This dataset provides top 10 states by month visiting Data.gov.",
-        "keyword": "[\"visiting\", \" states\", \" Interactive\"]",
+        "keyword": ["\"visiting\", \" states\", \" Interactive\""],
         "modified": "2013-05-13",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -314,7 +314,7 @@
     {
         "title": "Distinct Agency Names in Geospatial Metadata",
         "description": "Provides a listing of the unique agency names and the number of datasets that contain the name from the geospatial metadata catalog on geo.data.gov. The list was filtered by datasets that had been updated between 1/1/10 and 3/1/11.",
-        "keyword": "[\"metadata\", \" geospatial\", \" Interactive\"]",
+        "keyword": ["\"metadata\", \" geospatial\", \" Interactive\""],
         "modified": "2012-03-20",
         "publisher": "General Services Administration",
         "contactPoint": "Hyon Joo Kim",
@@ -338,7 +338,7 @@
     {
         "title": "e-Buy Awards for Fiscal Year 2005",
         "description": "GSA e-Buy, is an electronic Request for Quote (RFQ) / Request for Proposal (RFP) system designed to allow government buyers to request information, find sources, and prepare RFQs/RFPs, online, for millions of services and products offered through GSA's Multiple Award Schedule (MAS) and GSA Technology Contracts. Government buyers can use eBuy to obtain quotes or proposals for services, large quantity purchases, big ticket items, and purchases with complex requirements. Buyers may use e-Buy to evaluate and accept the quotation that represents the best value. Buyers may then make award to any contractor whose quotation was accepted. The e-Buy Award dataset are the award data collected by e-Buy for a given fiscal year.",
-        "keyword": "[\"e-Buy Award RFQ Quote GSA Schedule Contract\"]",
+        "keyword": ["\"e-Buy Award RFQ Quote GSA Schedule Contract\""],
         "modified": "2010-09-27",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -362,7 +362,7 @@
     {
         "title": "e-Buy Awards for Fiscal Year 2006",
         "description": "GSA e-Buy, is an electronic Request for Quote (RFQ) / Request for Proposal (RFP) system designed to allow government buyers to request information, find sources, and prepare RFQs/RFPs, online, for millions of services and products offered through GSA's Multiple Award Schedule (MAS) and GSA Technology Contracts. Government buyers can use eBuy to obtain quotes or proposals for services, large quantity purchases, big ticket items, and purchases with complex requirements. Buyers may use e-Buy to evaluate and accept the quotation that represents the best value. Buyers may then make award to any contractor whose quotation was accepted. The e-Buy Award dataset are the award data collected by e-Buy for a given fiscal year.",
-        "keyword": "[\"e-Buy Award RFQ Quote GSA Schedule Contract Procurement\"]",
+        "keyword": ["\"e-Buy Award RFQ Quote GSA Schedule Contract Procurement\""],
         "modified": "2010-10-21",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -386,7 +386,7 @@
     {
         "title": "e-Buy Awards for Fiscal Year 2007",
         "description": "GSA e-Buy, is an electronic Request for Quote (RFQ) / Request for Proposal (RFP) system designed to allow government buyers to request information, find sources, and prepare RFQs/RFPs, online, for millions of services and products offered through GSA's Multiple Award Schedule (MAS) and GSA Technology Contracts. Government buyers can use eBuy to obtain quotes or proposals for services, large quantity purchases, big ticket items, and purchases with complex requirements. Buyers may use e-Buy to evaluate and accept the quotation that represents the best value. Buyers may then make award to any contractor whose quotation was accepted. The e-Buy Award dataset are the award data collected by e-Buy for a given fiscal year.",
-        "keyword": "[\"e-Buy Award RFQ Quote GSA Schedule Contract Procurement\"]",
+        "keyword": ["\"e-Buy Award RFQ Quote GSA Schedule Contract Procurement\""],
         "modified": "2010-10-21",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -410,7 +410,7 @@
     {
         "title": "e-Buy Awards for Fiscal Year 2008",
         "description": "GSA e-Buy, is an electronic Request for Quote (RFQ) / Request for Proposal (RFP) system designed to allow government buyers to request information, find sources, and prepare RFQs/RFPs, online, for millions of services and products offered through GSA's Multiple Award Schedule (MAS) and GSA Technology Contracts. Government buyers can use eBuy to obtain quotes or proposals for services, large quantity purchases, big ticket items, and purchases with complex requirements. Buyers may use e-Buy to evaluate and accept the quotation that represents the best value. Buyers may then make award to any contractor whose quotation was accepted. The e-Buy Award dataset are the award data collected by e-Buy for a given fiscal year.",
-        "keyword": "[\"e-Buy Award RFQ Quote GSA Schedule Contract Procurement\"]",
+        "keyword": ["\"e-Buy Award RFQ Quote GSA Schedule Contract Procurement\""],
         "modified": "2010-10-21",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -434,7 +434,7 @@
     {
         "title": "e-Buy Awards for Fiscal Year 2009",
         "description": "GSA e-Buy, is an electronic Request for Quote (RFQ) / Request for Proposal (RFP) system designed to allow government buyers to request information, find sources, and prepare RFQs/RFPs, online, for millions of services and products offered through GSA's Multiple Award Schedule (MAS) and GSA Technology Contracts. Government buyers can use eBuy to obtain quotes or proposals for services, large quantity purchases, big ticket items, and purchases with complex requirements. Buyers may use e-Buy to evaluate and accept the quotation that represents the best value. Buyers may then make award to any contractor whose quotation was accepted. The e-Buy Award dataset are the award data collected by e-Buy for a given fiscal year.",
-        "keyword": "[\"e-Buy Award RFQ Quote GSA Schedule Contract\"]",
+        "keyword": ["\"e-Buy Award RFQ Quote GSA Schedule Contract\""],
         "modified": "2011-02-04",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -458,7 +458,7 @@
     {
         "title": "Energy Usage Analysis System",
         "description": "The EUAS application is a web based system which serves Energy Center of Expertise, under the Office of Facilitates Management and Service Programs.  EUAS is used for tracking energy details for various energy sources namely electricity, natural gas, oil, chilled water, steam and renewable energy.",
-        "keyword": "[\"Utilities\", \" Energy Usage\", \" Analysis\", \" electricity\", \" natural gas\", \" oil\", \" chilled water\", \" steam and renewable energy\"]",
+        "keyword": ["\"Utilities\", \" Energy Usage\", \" Analysis\", \" electricity\", \" natural gas\", \" oil\", \" chilled water\", \" steam and renewable energy\""],
         "modified": "2010-12-01",
         "publisher": "General Services Administration",
         "contactPoint": "Shirl R Tillman",
@@ -482,7 +482,7 @@
     {
         "title": "FAS Forecasting of Contracting Opportunities",
         "description": "FAS Forecast of Contracting Opportunities",
-        "keyword": "[\"FAS\", \" contracting\", \" opportunities\", \" Interactive\"]",
+        "keyword": ["\"FAS\", \" contracting\", \" opportunities\", \" Interactive\""],
         "modified": "2012-10-22",
         "publisher": "General Services Administration",
         "contactPoint": "Murugaboopathi Natarajan",
@@ -506,7 +506,7 @@
     {
         "title": "FAS Instructional Letters 2007-01 Procedures for Financial Responsibility",
         "description": "This IL sets forth procedures for financial responsibility. The GSA Federal Acquisition Service Instructional Letters (ILs) - guidance issued to internal FAS acquisition personnel that generally requires action as a result of a regulatory or programmatic change, e.g. inserting a new clause into solicitations and contracts. All ILs are current only as of the date posted and are subject to amendment, update, and supersession without further notice being posted on this site. Changes and revisions to regulatory or statutory guidance subsequent to the effective date of this IL may affect its relevancy and accurateness. The IL is provided for informational purposes only.",
-        "keyword": "[\"Instructional Letters\", \" Acquisition\"]",
+        "keyword": ["\"Instructional Letters\", \" Acquisition\""],
         "modified": "2011-07-26",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -530,7 +530,7 @@
     {
         "title": "Federal Acquisition Service Balanced Scorecard 2007",
         "description": "Federal Acquisition Service Performance Measures are tracked for each of the four portfolios within the organization (Assisted Acquisition Services; General Supplies and Services; Integrated Technology Services; and Travel, Motor Vehicle, and Card Services) and are reported Annual.  Each measure aligns to one of Kaplan and Norton's Balanced Scorecard Perspectives:  customer, stakeholder, internal processes and technology, human capital, and financial.  The results reported here are collected and maintained by the Office of Strategy Management.",
-        "keyword": "[\"Q-Federal Acquisition Service performance measures\", \" balanced scorecard perspectives\", \" customer\", \" stakeholder\", \" internal processes and technology\", \" human capital\", \" financial\"]",
+        "keyword": ["\"Q-Federal Acquisition Service performance measures\", \" balanced scorecard perspectives\", \" customer\", \" stakeholder\", \" internal processes and technology\", \" human capital\", \" financial\""],
         "modified": "1905-06-29",
         "publisher": "General Services Administration",
         "contactPoint": "Kari A Namiot",
@@ -554,7 +554,7 @@
     {
         "title": "Federal Acquisition Service Balanced Scorecard 2008",
         "description": "Federal Acquisition Service Performance Measures are tracked for each of the four portfolios within the organization (Assisted Acquisition Services; General Supplies and Services; Integrated Technology Services; and Travel, Motor Vehicle, and Card Services) and are reported Annual.  Each measure aligns to one of Kaplan and Norton's Balanced Scorecard Perspectives:  customer, stakeholder, internal processes and technology, human capital, and financial.  The results reported here are collected and maintained by the Office of Strategy Management.",
-        "keyword": "[\"Q-Federal Acquisition Service performance measures\", \" balanced scorecard perspectives\", \" customer\", \" stakeholder\", \" internal processes and technology\", \" human capital\", \" financial\"]",
+        "keyword": ["\"Q-Federal Acquisition Service performance measures\", \" balanced scorecard perspectives\", \" customer\", \" stakeholder\", \" internal processes and technology\", \" human capital\", \" financial\""],
         "modified": "1905-06-30",
         "publisher": "General Services Administration",
         "contactPoint": "Kari A Namiot",
@@ -578,7 +578,7 @@
     {
         "title": "Federal Acquisition Service Balanced Scorecard 2009",
         "description": "Federal Acquisition Service Performance Measures are tracked for each of the four portfolios within the organization (Assisted Acquisition Services; General Supplies and Services; Integrated Technology Services; and Travel, Motor Vehicle, and Card Services) and are reported Annual.  Each measure aligns to one of Kaplan and Norton's Balanced Scorecard Perspectives:  customer, stakeholder, internal processes and technology, human capital, and financial.  The results reported here are collected and maintained by the Office of Strategy Management.",
-        "keyword": "[\"Q-Federal Acquisition Service performance measures\", \" balanced scorecard perspectives\", \" customer\", \" stakeholder\", \" internal processes and technology\", \" human capital\", \" financial\"]",
+        "keyword": ["\"Q-Federal Acquisition Service performance measures\", \" balanced scorecard perspectives\", \" customer\", \" stakeholder\", \" internal processes and technology\", \" human capital\", \" financial\""],
         "modified": "1905-07-01",
         "publisher": "General Services Administration",
         "contactPoint": "Kari A Namiot",
@@ -602,7 +602,7 @@
     {
         "title": "Federal Acquisition Service Instructional Letter 2009",
         "description": "The GSA Federal Acquisition Service Instructional Letters (ILs) - guidance issued to internal FAS acquisition personnel that generally requires action as a result of a regulatory or programmatic change, e.g. inserting a new clause into solicitations and contracts. \nAll ILs are current only as of the date posted and are subject to amendment, update, and supersession without further notice being posted on this site. Changes and revisions to regulatory or statutory guidance subsequent to the effective date of this IL may affect its relevancy and accurateness. The IL is provided for informational purposes only.",
-        "keyword": "[\"Industrial Funding Fee\", \" Instructional Letters\", \" FAS\", \" Interactive\"]",
+        "keyword": ["\"Industrial Funding Fee\", \" Instructional Letters\", \" FAS\", \" Interactive\""],
         "modified": "2012-05-17",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -626,7 +626,7 @@
     {
         "title": "Federal Acquisition Service Instructional Letter 2011",
         "description": "The GSA Federal Acquisition Service Instructional Letters (ILs) - guidance issued to internal FAS acquisition personnel that generally requires action as a result of a regulatory or programmatic change, e.g. inserting a new clause into solicitations and contracts. \nAll ILs are current only as of the date posted and are subject to amendment, update, and supersession without further notice being posted on this site. Changes and revisions to regulatory or statutory guidance subsequent to the effective date of this IL may affect its relevancy and accurateness. The IL is provided for informational purposes only.",
-        "keyword": "[\"Industrial Funding Fee\", \" Instructional Letters\", \" FAS\", \" Interactive\"]",
+        "keyword": ["\"Industrial Funding Fee\", \" Instructional Letters\", \" FAS\", \" Interactive\""],
         "modified": "2012-05-17",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -650,7 +650,7 @@
     {
         "title": "Federal Acquisition Service Instructional Letter 2012",
         "description": "The GSA Federal Acquisition Service Instructional Letters (ILs) - guidance issued to internal FAS acquisition personnel that generally requires action as a result of a regulatory or programmatic change, e.g. inserting a new clause into solicitations and contracts. \nAll ILs are current only as of the date posted and are subject to amendment, update, and supersession without further notice being posted on this site. Changes and revisions to regulatory or statutory guidance subsequent to the effective date of this IL may affect its relevancy and accurateness. The IL is provided for informational purposes only.",
-        "keyword": "[\"Industrial Funding Fee\", \" Instructional Letters\", \" FAS\", \" Interactive\"]",
+        "keyword": ["\"Industrial Funding Fee\", \" Instructional Letters\", \" FAS\", \" Interactive\""],
         "modified": "2012-05-24",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -674,7 +674,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-1997",
         "description": "FACA Committee Member Data collected and verified for FY 1997.  The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "1997-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -698,7 +698,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-1998",
         "description": "FACA Committee Member Data collected and verified for FY 1998. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "1998-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -722,7 +722,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-1999",
         "description": "FACA Committee Members Data collected and verified for FY 1999. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "1999-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -746,7 +746,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2000",
         "description": "FACA Committee Member Data collected and verified for FY 2000. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2000-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -770,7 +770,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2001",
         "description": "FACA Committee Member List Data collected and verified for FY 2001. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2001-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -794,7 +794,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2002",
         "description": "FACA Committee Member List Data collected and verified for FY 2002. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2002-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -818,7 +818,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2003",
         "description": "FACA Committee Member List Data collected and verified for FY 2003.  The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2003-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -842,7 +842,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2004",
         "description": "FACA Committee Member List Data collected and verified for FY 2004. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2004-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -866,7 +866,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2005",
         "description": "FACA Committee Member List Data collected and verified for FY 2005.  The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2005-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -890,7 +890,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2006",
         "description": "FACA Committee Member List Data collected and verified for FY 2006. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2006-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -914,7 +914,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2007",
         "description": "FACA Committee Member List Data collected and verified for FY 2007. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2007-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -938,7 +938,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2008",
         "description": "FACA Committee Member List Data collected and verified for FY 2008. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\", \" Interactive\""],
         "modified": "2008-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -962,7 +962,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2009",
         "description": "FACA Committee Member Data collected and verified for FY 2009. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": null,
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -986,7 +986,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2010",
         "description": "FACA Committee Member Data collected and verified for FY 2010. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": null,
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1010,7 +1010,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Committee Member List-2011",
         "description": "FACA Committee Member Data collected and verified for FY 2010. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": null,
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1034,7 +1034,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-1997",
         "description": "FACA Data collected and verified for FY 1997.  The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "1997-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1058,7 +1058,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-1997-2010",
         "description": "FACA Data collected and verified for FYs 1997-2010.  Committee and Subcommittee Data collected is separately extracted and keyed.  The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2012-03-30",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1082,7 +1082,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-1997-2010 Combined Committee Data",
         "description": "FACA Data collected and verified for FYs 1997-2010.  Committee and Subcommittee Data collected is not separately extracted.  The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2012-03-30",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1106,7 +1106,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-1999",
         "description": "FACA Data collected and verified for FY 1999. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "1999-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1130,7 +1130,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2000",
         "description": "FACA Data collected and verified for FY 2000. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2000-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1154,7 +1154,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2001",
         "description": "FACA Data collected and verified for FY 2001. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2001-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1178,7 +1178,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2002",
         "description": "FACA Data collected and verified for FY 2002. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2002-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1202,7 +1202,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2003",
         "description": "FACA Data collected and verified for FY 2003.  The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2003-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1226,7 +1226,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2006",
         "description": "FACA Data collected and verified for FY 2006. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2006-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1250,7 +1250,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2007",
         "description": "FACA Data collected and verified for FY 2007. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2007-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1274,7 +1274,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2008",
         "description": "FACA Data collected and verified for FY 2008. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2008-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1298,7 +1298,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2009",
         "description": "FACA Data collected and verified for FY 2009. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "3012-03-30",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1322,7 +1322,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2010",
         "description": "FACA Data collected and verified for FY 2010. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2012-03-30",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1346,7 +1346,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Data-2011",
         "description": "FACA Data collected and verified for FY 2011. The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide.  This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2012-03-30",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1370,7 +1370,7 @@
     {
         "title": "Federal Advisory Committee Act (FACA) Database-Complete-Raw",
         "description": "The Federal Advisory Committee Act (FACA) database is used by Federal agencies to continuously manage an average of 1,000 advisory committees government-wide ' This database is also used by the Congress to perform oversight of related Executive Branch programs and by the public, the media, and others, to stay abreast of important developments resulting from advisory committee activities.   Although centrally supported by the General Services Administration's Committee Management Secretariat, the database represents a true \"shared system\" wherein each participating agency and individual committee manager has responsibility for providing accurate and timely information that may be used to assure that the system's wide array of users has access to data required by FACA.",
-        "keyword": "[\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\"]",
+        "keyword": ["\"FACA\", \" Federal Advisory Committees\", \" Committee Management Secretariat\", \" Presidential Commissions\""],
         "modified": "2008-12-31",
         "publisher": "General Services Administration",
         "contactPoint": "Ken F Fussell",
@@ -1394,7 +1394,7 @@
     {
         "title": "Federal Aircraft Cost and Utilization Data",
         "description": "Federal aviation data is submitted quarterly to the Federal Aviation Interactive Reporting System (FAIRS) IT application. This is a GSA system which is a secure, web-based application. The report summarizes the Annual aviation cost and utilization information submitted by the thirteen agencies that own or operate aircraft as part of their mission.",
-        "keyword": "[\"FAIRS\", \" Aircraft Cost\", \" Aircraft Hours\", \" Aircraft Utilization\", \" Aircraft Agency\"]",
+        "keyword": ["\"FAIRS\", \" Aircraft Cost\", \" Aircraft Hours\", \" Aircraft Utilization\", \" Aircraft Agency\""],
         "modified": "2010-03-31",
         "publisher": "General Services Administration",
         "contactPoint": "Joseph J Spurr",
@@ -1418,7 +1418,7 @@
     {
         "title": "Federal Business Opportunities Data",
         "description": "FedBizOpps is the single government point-of-entry for solicitations of any dollar amount and for required synopsis over $25,000, allowing commercial business suppliers and government buyers to post, search, monitor, and retrieve opportunities in federal government markets.  FBO now includes the functionality of the Federal Technical Data Solutions (FedTeDS) which allows agencies to securely disseminate sensitive acquisition-related technical data for solicitations to approved business partners. This dataset contains current active notices and is updated weekly.",
-        "keyword": "[\"FBO\", \" FedBizOpps\", \" Solicitation\", \" Opportunity\", \" opportunities\", \"  Procurement\", \" RFP\", \" RFI\", \" Award\"]",
+        "keyword": ["\"FBO\", \" FedBizOpps\", \" Solicitation\", \" Opportunity\", \" opportunities\", \"  Procurement\", \" RFP\", \" RFI\", \" Award\""],
         "modified": "2010-08-10",
         "publisher": "General Services Administration",
         "contactPoint": "Keil K Todd",
@@ -1442,7 +1442,7 @@
     {
         "title": "Federal Executive Agencies Domain List",
         "description": "List of Internet domains registered and maintained by Federal Executive Agencies.",
-        "keyword": "[\"Domains\", \" federal\", \" agency\", \" internet\", \" executive branch\", \" websites\"]",
+        "keyword": ["\"Domains\", \" federal\", \" agency\", \" internet\", \" executive branch\", \" websites\""],
         "modified": "2012-09-11",
         "publisher": "General Services Administration",
         "contactPoint": "Lee Alan Ellis",
@@ -1466,7 +1466,7 @@
     {
         "title": "Federal Fleet Report",
         "description": "Agencies Annual report motor vehicle fleet data using the Federal Automotive Statistical Tool (FAST), a web-based reporting tool cosponsored by GSA and the Department of Energy. The Annual Federal Fleet Report publishes motor vehicle fleet inventory, cost, and use data from these Annual submissions, and the resulting data tables are available in these datasets.",
-        "keyword": "[\"fleet report\", \" federal fleet\", \" federal fleet report\", \" motor vehicles\", \" motor vehicle fleet\", \" fleet inventory\", \" fleet cost\", \" fleet utilization\", \" FAST\", \" FAST report\"]",
+        "keyword": ["\"fleet report\", \" federal fleet\", \" federal fleet report\", \" motor vehicles\", \" motor vehicle fleet\", \" fleet inventory\", \" fleet cost\", \" fleet utilization\", \" FAST\", \" FAST report\""],
         "modified": "2012-05-14",
         "publisher": "General Services Administration",
         "contactPoint": "Edward E Lawler",
@@ -1490,7 +1490,7 @@
     {
         "title": "Federal Mail Expenditures",
         "description": "Federal Mail Expenditures",
-        "keyword": "[\"Federal Mail\", \" Federal Mail Expenditures\", \" Federal Mail Management\", \" Federal Mail Policy\", \" Federal Mail Pieces\", \" \n\"]",
+        "keyword": ["\"Federal Mail\", \" Federal Mail Expenditures\", \" Federal Mail Management\", \" Federal Mail Policy\", \" Federal Mail Pieces\", \" \n\""],
         "modified": "2012-04-01",
         "publisher": "General Services Administration",
         "contactPoint": "Linda J Willoughby",
@@ -1514,7 +1514,7 @@
     {
         "title": "Federal Procurement Data System",
         "description": "The Federal Procurement Data System houses Federal contract information where a contract's value is expected to exceed the micro-purchase threshold.",
-        "keyword": "[\"Procurement\", \" FPDS\", \" Federal Procurement Data System\", \" acquisition\", \" contracts\", \" reporting\", \" award\"]",
+        "keyword": ["\"Procurement\", \" FPDS\", \" Federal Procurement Data System\", \" acquisition\", \" contracts\", \" reporting\", \" award\""],
         "modified": "2010-06-23",
         "publisher": "General Services Administration",
         "contactPoint": "Mary Searcy",
@@ -1538,7 +1538,7 @@
     {
         "title": "Fine Arts Database (FAD)",
         "description": "The Fine Arts Database records information on federally owned art in the control of the GSA; this includes the location, current condition and information on artists.",
-        "keyword": "[\"Works Progress Administration\", \" WPA\", \" Art in Architecture\"]",
+        "keyword": ["\"Works Progress Administration\", \" WPA\", \" Art in Architecture\""],
         "modified": "2011-03-18",
         "publisher": "General Services Administration",
         "contactPoint": "Sarah S Matin",
@@ -1562,7 +1562,7 @@
     {
         "title": "FY2013 Per Diem Reimbursement Rates",
         "description": "The dataset contains maximum lodging reimbursement per diem rates and the meals and incidental (M&IE) rates for 392 locations across the continental United States for Fiscal Year 2013, as well as the standard per diem rates for any locations not specifically listed.",
-        "keyword": "[\"federal per diem\", \" per diem\", \" lodging\", \" meals and incidental expenses\", \" m&ie\", \" maximum per diem rates\", \" Interactive\"]",
+        "keyword": ["\"federal per diem\", \" per diem\", \" lodging\", \" meals and incidental expenses\", \" m&ie\", \" maximum per diem rates\", \" Interactive\""],
         "modified": "2012-08-07",
         "publisher": "General Services Administration",
         "contactPoint": "Murugaboopathi Natarajan",
@@ -1586,7 +1586,7 @@
     {
         "title": "Go.USA.gov URL Shortner API",
         "description": "The Go.USA.gov REST API allows you interact with Go.USA.gov by shortening URLs, previewing long urls, and getting the number of clicks to a Go.USA.gov URL..  An API key is required and available to any registered Go.USA.gov user.",
-        "keyword": "[\"Go.USA.gov URL shortener\"]",
+        "keyword": ["\"Go.USA.gov URL shortener\""],
         "modified": "2013-09-04",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -1610,7 +1610,7 @@
     {
         "title": "GobiernoUSA.gov Blog RSS feed",
         "description": "We help you find official U.S. government information and services in Spanish on the Internet.",
-        "keyword": "[\"government information\", \" government benefits\", \" government services\", \" blog\", \" news\", \" consumer\"]",
+        "keyword": ["\"government information\", \" government benefits\", \" government services\", \" blog\", \" news\", \" consumer\""],
         "modified": "2013-09-04",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -1634,7 +1634,7 @@
     {
         "title": "GSA eLibrary Schedules and Contracts",
         "description": "GSA eLibrary (formerly Schedules e-Library) is the online source for the latest contract award information for: GSA Schedules; Department of Veterans Affairs (VA) Schedules; and Technology Contracts, including Governmentwide Acquisition Contracts (GWACs), Network Services and Telecommunications Contracts, and Information Technology (IT) Schedule 70. This data contains all the current contracts under those contract vehicles and their respective schedule, special item number information.",
-        "keyword": "[\"eLibrary GSA Schedule Contract\"]",
+        "keyword": ["\"eLibrary GSA Schedule Contract\""],
         "modified": "2010-09-17",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -1658,7 +1658,7 @@
     {
         "title": "GSA Fair Act Inventory Data",
         "description": "The Federal Activities Inventory Reform (FAIR) Act Inventory contains GSA's information related to the determination of whether a position is commercial or inherently governmental in nature.  Total Full-time Equivalent (FTE) are listed by activity, city and state and a designation of commercial (C) or inherently governmental (I).",
-        "keyword": "[\"FAIR Act\", \" Functions\", \" Activity\", \" Inventory\", \" Commercial\", \" Inherently Governmental\"]",
+        "keyword": ["\"FAIR Act\", \" Functions\", \" Activity\", \" Inventory\", \" Commercial\", \" Inherently Governmental\""],
         "modified": "2009-03-01",
         "publisher": "General Services Administration",
         "contactPoint": "Paul F Boyle",
@@ -1682,7 +1682,7 @@
     {
         "title": "GSA PBS Building Preservation Plan (BPP)",
         "description": "BPP data regarding existing building conditions; current and new conditions; and research, recommended building treatments to help prioritize and direct repair and alteration projects of all sizes relative to historic GSA-owned properties.",
-        "keyword": "[\"Building\", \" Construction\", \" Historic\", \" Space\"]",
+        "keyword": ["\"Building\", \" Construction\", \" Historic\", \" Space\""],
         "modified": "2011-03-24",
         "publisher": "General Services Administration",
         "contactPoint": "Jonathan F Harding",
@@ -1706,7 +1706,7 @@
     {
         "title": "Inventory of Owned and Leased Properties",
         "description": "IOLP Website is database that lists GSA Owned and Leased properties, by state, county and city; and lease, dates, square footage and building type.",
-        "keyword": "[\"Real Estate\"]",
+        "keyword": ["\"Real Estate\""],
         "modified": "2011-02-01",
         "publisher": "General Services Administration",
         "contactPoint": "Sarah S Matin",
@@ -1730,7 +1730,7 @@
     {
         "title": "Inventory Reporting Information System (IRIS)",
         "description": "IRIS Work Item Module supports Real Property Asset Management (RPAM) and the Financial Operation Division.  IRIS manages the estimated cost of building projects related to repairs and alterations, and new construction",
-        "keyword": "[\"Construction\", \" repairs\", \" alternations\", \"\", \"Safety\", \" Fire\", \" Survey\", \" Findings\", \" Building\", \" OSHA\", \" SEM\", \" Interactive\"]",
+        "keyword": ["\"Construction\", \" repairs\", \" alternations\", \"\", \"Safety\", \" Fire\", \" Survey\", \" Findings\", \" Building\", \" OSHA\", \" SEM\", \" Interactive\""],
         "modified": "2010-12-15",
         "publisher": "General Services Administration",
         "contactPoint": null,
@@ -1754,7 +1754,7 @@
     {
         "title": "Inventory Reporting Information System (IRIS) Safety",
         "description": "IRIS tracks the status of safety deficiencies identified during Occupational Safety and Health Administration (OSHA) and Safety & Environmental Management (SEM) survey inspections.",
-        "keyword": "[\"safety\", \" fire\", \" survey\", \" findings\", \" building\", \" osha\", \" sem\", \" Interactive\"]",
+        "keyword": ["\"safety\", \" fire\", \" survey\", \" findings\", \" building\", \" osha\", \" sem\", \" Interactive\""],
         "modified": "2011-08-02",
         "publisher": "General Services Administration",
         "contactPoint": null,
@@ -1778,7 +1778,7 @@
     {
         "title": "Jobs API",
         "description": "This Jobs API returns job openings across the federal government and includes all current openings posted on USAJobs.gov that are open to the public and located in the United States. It also includes some state and local government jobs.",
-        "keyword": "[\"job openings\", \" job listings\", \" position opening\"]",
+        "keyword": ["\"job openings\", \" job listings\", \" position opening\""],
         "modified": "2013-05-01",
         "publisher": "General Services Administration",
         "contactPoint": "Ammie Nicole Farraj-Feijoo",
@@ -1802,7 +1802,7 @@
     {
         "title": "Mail Management Report - Federal Agency Common Carrier Expenditure",
         "description": "Agencies Annual report mail data using the Simplified Mail Accountability Reporting Tool (SMART), a web-based reporting tool cosponsored by GSA and the Department of Energy. The Annual Mail Management Report publishes mail cost, professional certifications and the resulting data tables are available in these datasets. This dataset shows the Federal agency common carrier expenditure.",
-        "keyword": "[\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\"]",
+        "keyword": ["\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\""],
         "modified": "2011-01-31",
         "publisher": "General Services Administration",
         "contactPoint": "Linda J Willoughby",
@@ -1826,7 +1826,7 @@
     {
         "title": "Mail Management Report - Federal Agency USPS Domestic Expenditures",
         "description": "Agencies Annual report mail data using the Simplified Mail Accountability Reporting Tool (SMART), a web-based reporting tool cosponsored by GSA and the Department of Energy. The Annual Mail Management Report publishes mail cost, professional certifications and the resulting data tables are available in these datasets. This dataset shows the Federal agency USPS domestic expenditures.",
-        "keyword": "[\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\"]",
+        "keyword": ["\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\""],
         "modified": "2011-01-31",
         "publisher": "General Services Administration",
         "contactPoint": "Linda J Willoughby",
@@ -1850,7 +1850,7 @@
     {
         "title": "Mail Management Report - Federal Agency USPS International Expenditure",
         "description": "Agencies Annual report mail data using the Simplified Mail Accountability Reporting Tool (SMART), a web-based reporting tool cosponsored by GSA and the Department of Energy. The Annual Mail Management Report publishes mail cost, professional certifications and the resulting data tables are available in these datasets. This dataset shows the Federal Agency USPS international expenditure.",
-        "keyword": "[\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\"]",
+        "keyword": ["\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\""],
         "modified": "2011-01-31",
         "publisher": "General Services Administration",
         "contactPoint": "Linda J Willoughby",
@@ -1874,7 +1874,7 @@
     {
         "title": "Mail Management Report - Professional Certifications by Federal Agency",
         "description": "Agencies Annual report mail data using the Simplified Mail Accountability Reporting Tool (SMART), a web-based reporting tool cosponsored by GSA and the Department of Energy. The Annual Mail Management Report publishes mail cost, professional certifications and the resulting data tables are available in these datasets. This dataset shows the professional certifications by Federal agency.",
-        "keyword": "[\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\"]",
+        "keyword": ["\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\""],
         "modified": "2011-01-31",
         "publisher": "General Services Administration",
         "contactPoint": "Linda J Willoughby",
@@ -1898,7 +1898,7 @@
     {
         "title": "Mail Management Report - Total Mail Expenditures by Agency",
         "description": "Agencies Annual report mail data using the Simplified Mail Accountability Reporting Tool (SMART), a web-based reporting tool cosponsored by GSA and the Department of Energy. The Annual Mail Management Report publishes mail cost, professional certifications and the resulting data tables are available in these datasets. This dataset shows the total mail expenditures by agency.",
-        "keyword": "[\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\"]",
+        "keyword": ["\"mail management report\", \" federal mail\", \" federal mail report\", \" mail policy\", \" mail management\", \" mail expenditures\", \" mail certifications\", \" mail cost\", \" mail utilization\", \" SMART\", \" SMART report\""],
         "modified": "2011-01-31",
         "publisher": "General Services Administration",
         "contactPoint": "Linda J Willoughby",
@@ -1922,7 +1922,7 @@
     {
         "title": "NAICS Matrix for Active GSA Schedules and GSA GWACs",
         "description": "The Product Service Codes (PSC) and North American Industrial Classification Systems (NAICS) are the two methods that the Federal government classifies contracts.  They are used as a mechanism to identify scope of the products and services and business segment covered under the award.  This data can be used as a mechanism to understand the scope of GSA programs.  This can be used as means to identify best fit.  While a GSA contract can offer great opportunities for many businesses, the process of applying for that contract will take a significant amount of time and resources. Understanding best GSA contract for your products and services is a preliminary step to take prior to responding to a GSA solicitation.",
-        "keyword": "[\"NAICS\", \" North American Industry Classification System\", \" Business\", \" Contracts\", \" Schedules\", \" GWAC\", \" MAS\", \" Governmentwide Acquisition Contract\", \" Multiple Award Schedule\", \" Federal Supply Schedule\", \" BPA\", \" Blanket Purchase Agreement\"]",
+        "keyword": ["\"NAICS\", \" North American Industry Classification System\", \" Business\", \" Contracts\", \" Schedules\", \" GWAC\", \" MAS\", \" Governmentwide Acquisition Contract\", \" Multiple Award Schedule\", \" Federal Supply Schedule\", \" BPA\", \" Blanket Purchase Agreement\""],
         "modified": "2011-03-30",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -1946,7 +1946,7 @@
     {
         "title": "National Stock Number Extract",
         "description": "National Stock Number extract includes the current listing of National Stock Numbers (NSNs), NSN item name and descriptions, and current selling price of each product listed in GSA Advantage and managed by GSA for use by the general public.  This list contains only stocked items in the GSA Supply Chain and does not list nonstocked items.Each NSN is listed with the vendors description of the item. Some descriptions exceed the standard length and are truncated.",
-        "keyword": "[\"National Stock Number\", \" NSN\", \" Part Number\", \" Product\", \" Vendor\"]",
+        "keyword": ["\"National Stock Number\", \" NSN\", \" Part Number\", \" Product\", \" Vendor\""],
         "modified": "2010-03-22",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -1970,7 +1970,7 @@
     {
         "title": "Natural Gas Acquisition Program",
         "description": "The \"NGAP\" system is a web based application which serves NGAP GSA users for tracking information details for various natural gas supply chain elements like Agency, LDC, and Facility with their respective Point of Contacts information. In addition to this, it also maintains the Cost & Usage Data and Invoices for the Facilities under different account managers.",
-        "keyword": "[\"Utilities\", \" Natural Gas\", \" LCD\", \" Agency\", \" Facility\", \"  Cost \", \" and Usage Data.\"]",
+        "keyword": ["\"Utilities\", \" Natural Gas\", \" LCD\", \" Agency\", \" Facility\", \"  Cost \", \" and Usage Data.\""],
         "modified": "2010-12-01",
         "publisher": "General Services Administration",
         "contactPoint": "Shirl R Tillman",
@@ -1994,7 +1994,7 @@
     {
         "title": "Networx Business Volume FY2010",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2011-02-24",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2018,7 +2018,7 @@
     {
         "title": "Networx Business Volume_FY2011_1st Qtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2011-07-13",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2042,7 +2042,7 @@
     {
         "title": "Networx BusinessVolume_FY2012_2ndQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2012-07-17",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2066,7 +2066,7 @@
     {
         "title": "Networx BusinessVolume_FY2012_3rdQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2012-09-14",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2090,7 +2090,7 @@
     {
         "title": "Networx BusinessVolume_FY2012_4thQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2012-12-15",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2114,7 +2114,7 @@
     {
         "title": "Networx BusinessVolume_FY2013_2ndQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2013-05-30",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2138,7 +2138,7 @@
     {
         "title": "NetworxBusinessVolume_FY2008_FY2009",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx Telecommunications\"]",
+        "keyword": ["\"Networx Telecommunications\""],
         "modified": "2010-10-21",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2162,7 +2162,7 @@
     {
         "title": "NetworxBusinessVolume_FY2011_2ndQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2011-09-20",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2186,7 +2186,7 @@
     {
         "title": "NetworxBusinessVolume_FY2011_3rdQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2012-04-01",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2210,7 +2210,7 @@
     {
         "title": "NetworxBusinessVolume_FY2011_4THQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2012-05-17",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2234,7 +2234,7 @@
     {
         "title": "NetworxBusinessVolume_FY2013_1stQtr",
         "description": "The dataset represents the Networx Universal and Enterprise business volume by contractor, agency, contract vehicle and month for the centralized billing account. This represents the business volume of each government agency that has ordered telecommunications services from the Networx contract.",
-        "keyword": "[\"Networx\", \" telecommunications.\"]",
+        "keyword": ["\"Networx\", \" telecommunications.\""],
         "modified": "2013-03-15",
         "publisher": "General Services Administration",
         "contactPoint": "Dave W Welch",
@@ -2258,7 +2258,7 @@
     {
         "title": "Newest Apps from the GobiernoUSA.gov Mobile Apps Gallery in Spanish",
         "description": "Get RSS notifications of the latest app releases in Spanish from the U.S. government.",
-        "keyword": "[\"government information\", \" government services\", \" apps\", \" mobile apps\", \" mobile websites\"]",
+        "keyword": ["\"government information\", \" government services\", \" apps\", \" mobile apps\", \" mobile websites\""],
         "modified": "2013-09-04",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -2282,7 +2282,7 @@
     {
         "title": "Newest Apps from the USA.gov Mobile Apps Gallery",
         "description": "Get RSS notifications of the latest app releases from the U.S. government.",
-        "keyword": "[\"government information\", \" government services\", \" apps\", \" mobile apps\", \" mobile websites\"]",
+        "keyword": ["\"government information\", \" government services\", \" apps\", \" mobile apps\", \" mobile websites\""],
         "modified": "2013-09-04",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -2306,7 +2306,7 @@
     {
         "title": "News and Features Updates from USA.gov",
         "description": "Stay on top of important government news and information with the USA.gov Updates: News and Features RSS feed. We'll update this feed when we add news and featured content to the USA.gov website.",
-        "keyword": "[\"news\", \" government\", \" agencies\", \" updates\", \" holidays\", \"\"]",
+        "keyword": ["\"news\", \" government\", \" agencies\", \" updates\", \" holidays\", \"\""],
         "modified": "2013-09-01",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -2330,7 +2330,7 @@
     {
         "title": "Noticias y actualizaciones de GobiernoUSA.gov",
         "description": "Manténgase al tanto de las noticias e informaciones importantes del Gobierno con el canal RSS de GobiernoUSA.gov: noticias y actualizaciones. Este canal se actualizará cuando agreguemos noticias y contenido nuevo al sitio web GobiernoUSA.gov.",
-        "keyword": "[\"government information\", \" government benefits\", \" government services\", \" blog\", \" news\", \" consumer\", \" smart living\"]",
+        "keyword": ["\"government information\", \" government benefits\", \" government services\", \" blog\", \" news\", \" consumer\", \" smart living\""],
         "modified": "2013-09-01",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -2354,7 +2354,7 @@
     {
         "title": "Real Estate Across the United States (REXUS) (Lease)",
         "description": "Real Estate Across the United States (REXUS) is the primary tool used by PBS to track and manage the government's real property assets and to store inventory data, building data, customer data, and lease information. STAR manages aspects of real property space management, including identification of all building space and daily management of 22,000 assignments for all property to its client Federal agencies.  This data set contains PBS building inventory that consists of both owned and leased buildings with active and excess status.",
-        "keyword": "[\"GSA\", \" building\", \" owned\", \" property\", \" real estate\", \" real property\"]",
+        "keyword": ["\"GSA\", \" building\", \" owned\", \" property\", \" real estate\", \" real property\""],
         "modified": "2013-03-01",
         "publisher": "General Services Administration",
         "contactPoint": "Dong Zhang",
@@ -2378,7 +2378,7 @@
     {
         "title": "Real Estate Across the United States (REXUS) Inventory (Building)",
         "description": "Real Estate Across the United States (REXUS) is the primary tool used by PBS to track and manage the government's real property assets and to store inventory data, building data, customer data, and lease information. STAR manages aspects of real property space management, including identification of all building space and daily management of 22,000 assignments for all property to its client Federal agencies.  This data set contains PBS building inventory that consists of both owned and leased buildings with active and excess status.",
-        "keyword": "[\"GSA\", \" building\", \" owned\", \" property\", \" real estate\", \" real property\"]",
+        "keyword": ["\"GSA\", \" building\", \" owned\", \" property\", \" real estate\", \" real property\""],
         "modified": "2013-03-01",
         "publisher": "General Services Administration",
         "contactPoint": "Dong Zhang",
@@ -2402,7 +2402,7 @@
     {
         "title": "Recalls API",
         "description": "This Recalls API allows you to tap into a list of (1) drug and food safety recalls from the Food and Drug Administration, Food Safety and Inspection Service, and FoodSafety.gov; (2) car safety recalls from the National Highway Traffic Safety Administration; and (3) product safety recalls from the Consumer Product Safety Commission.",
-        "keyword": "[\"NHTSA\", \" FDA\", \" USDA\", \" CPSC\"]",
+        "keyword": ["\"NHTSA\", \" FDA\", \" USDA\", \" CPSC\""],
         "modified": "2013-05-01",
         "publisher": "General Services Administration",
         "contactPoint": "Ammie Nicole Farraj-Feijoo",
@@ -2426,7 +2426,7 @@
     {
         "title": "RWA Entry & Tracking Application (RETA)",
         "description": "The Reimbursable Work Authorization (RWA) Entry & Tracking Application (RETA) is a web based system that serves the Public Buildings Service as a centralized repository for Reimbursable Work Authorization information.  It is a national PBS RWA database warehouse with electronic interface capabilities into the NEAR RWA Database System.",
-        "keyword": "[\"Building\", \" Construction\", \" Historic\", \" Space\"]",
+        "keyword": ["\"Building\", \" Construction\", \" Historic\", \" Space\""],
         "modified": "2011-04-21",
         "publisher": "General Services Administration",
         "contactPoint": "Mort Morton Glassberg",
@@ -2450,7 +2450,7 @@
     {
         "title": "Schedule Sales Query Raw Data",
         "description": "Schedule Sales Query presents sales volume figures as reported to GSA by contractors. The reports are generated as quarterly reports for the current year and the past five fiscal years. The sales data reported here are updated as contractors' reports are received, but the data may not be up to date as adjustments can be received at any time. The information on this site mirrors the data used by GSA for contract administration and fee management. It is not the official source of sales data. This data should be used for informational purposes only.",
-        "keyword": "[\"Schedule Sales Query\", \"sales volume figures\", \" sales data report\", \" GSA contract administration and fee management\"]",
+        "keyword": ["\"Schedule Sales Query\", \"sales volume figures\", \" sales data report\", \" GSA contract administration and fee management\""],
         "modified": "2010-08-09",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -2474,7 +2474,7 @@
     {
         "title": "Schedule Sales Query Report Generation System",
         "description": "Schedule Sales Query presents sales volume figures as reported to GSA by contractors. The reports are generated as quarterly reports for the current year and the past five fiscal years. The sales data reported here are updated as contractors' reports are received, but the data may not be up to date as adjustments can be received at any time. The information on this site mirrors the data used by GSA for contract administration and fee management. It is not the official source of sales data. This data should be used for informational purposes only.",
-        "keyword": "[\"Schedule Sales Query\", \"sales volume figures\", \" sales data report\", \" GSA contract administration and fee management\"]",
+        "keyword": ["\"Schedule Sales Query\", \"sales volume figures\", \" sales data report\", \" GSA contract administration and fee management\""],
         "modified": "2010-08-17",
         "publisher": "General Services Administration",
         "contactPoint": "Myehsha Boone",
@@ -2498,7 +2498,7 @@
     {
         "title": "System for Award Management (SAM) Exclusions Extract Data Package",
         "description": "This dataset contains a daily snapshot of active exclusion records entered by the U.S. Federal government identifying those parties excluded from receiving Federal contracts, certain subcontracts, and certain types of Federal financial and non-financial assistance and benefits. The data was formerly contained in the Excluded Parties List System (EPLS), but was incorporated into the System for Award Management. SAM is an electronic, web-based system that keeps its user community aware of administrative and statuatory exclusions across the entire government, and individuals barred from entering the United States. Users must read the exclusion record completely to understand how it impacts the excluded party.",
-        "keyword": "[\"EPLS\", \" debarred list\", \" black list\", \" excluded parties list\", \" list of exclusions\", \" System for Award Management\", \" SAM\"]",
+        "keyword": ["\"EPLS\", \" debarred list\", \" black list\", \" excluded parties list\", \" list of exclusions\", \" System for Award Management\", \" SAM\""],
         "modified": "2012-12-04",
         "publisher": "General Services Administration",
         "contactPoint": "Meredith W Whitley",
@@ -2522,7 +2522,7 @@
     {
         "title": "System for Award Management (SAM) Public Extract",
         "description": "This dataset contains the information available under the Freedom of Information Act (FOIA) for those registered to do business with the Federal government in the System for Award Management (SAM). It is updated monthly. This dataset was previously called the \"Central Contractor Registration (CCR) FOIA Extract.\"",
-        "keyword": "[\"Vendor\", \" Registration\", \" Contractor\", \" DUNS number\", \" Grantee\", \" Registrant\", \" Entity\", \" System for Award Management\", \" SAM\", \" CCR\"]",
+        "keyword": ["\"Vendor\", \" Registration\", \" Contractor\", \" DUNS number\", \" Grantee\", \" Registrant\", \" Entity\", \" System for Award Management\", \" SAM\", \" CCR\""],
         "modified": "2012-07-29",
         "publisher": "General Services Administration",
         "contactPoint": "Meredith W Whitley",
@@ -2546,7 +2546,7 @@
     {
         "title": "Time to Hire",
         "description": "This dataset represents time taken to hire a GSA employee from the internal request to hire through the entry on duty of the of the selected individual",
-        "keyword": "[\"Vacancy\", \" Employment\", \"Human Capital\", \" Application\", \" Jobs\", \" Time2Hire\", \" USAJobs\"]",
+        "keyword": ["\"Vacancy\", \" Employment\", \"Human Capital\", \" Application\", \" Jobs\", \" Time2Hire\", \" USAJobs\""],
         "modified": "2010-01-15",
         "publisher": "General Services Administration",
         "contactPoint": "Dawn R Smith",
@@ -2570,7 +2570,7 @@
     {
         "title": "USA.gov and GobiernoUSA.gov Federal Agency Directory API",
         "description": "Access federal agency directory records from USA.gov and GobiernoUSA.gov via a REST API that can return JSON, JSONP, and XML",
-        "keyword": "[\"government directory\", \" federal agencies\", \" USA.gov\", \" GobiernoUSA.gov\"]",
+        "keyword": ["\"government directory\", \" federal agencies\", \" USA.gov\", \" GobiernoUSA.gov\""],
         "modified": "2013-09-04",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -2594,7 +2594,7 @@
     {
         "title": "USA.gov Blog RSS feed",
         "description": "We help you find official U.S. government information and services on the Internet.",
-        "keyword": "[\"government information\", \" government benefits\", \" government services\", \" blog\", \" news\", \" consumer\"]",
+        "keyword": ["\"government information\", \" government benefits\", \" government services\", \" blog\", \" news\", \" consumer\""],
         "modified": "2013-09-04",
         "publisher": "General Services Administration",
         "contactPoint": "Russell G O'Neill",
@@ -2618,7 +2618,7 @@
     {
         "title": "USA.gov Search Data",
         "description": "This dataset lists the terms that were searched on USA.gov since January 1, 2013. For each search query, we list the date the term was searched. When known, we also list the searchers' country and state/region. Terms must be less than 30 characters, have five or fewer digits, and have been searched by at least two unique users per month to be included in this dataset. Note that bot traffic is included.",
-        "keyword": "[\"interactive\", \" USA.gov\", \" search terms\", \" search queries\", \" searches\"]",
+        "keyword": ["\"interactive\", \" USA.gov\", \" search terms\", \" search queries\", \" searches\""],
         "modified": "2013-08-01",
         "publisher": "General Services Administration",
         "contactPoint": "Ammie Nicole Farraj-Feijoo",
@@ -2642,7 +2642,7 @@
     {
         "title": "USAspending.gov Contracts and Purchases",
         "description": "Provides U.S. Federal Spending by agency. The Contracts section allows searching for data relating to all Federal contracts. There are three main categories of searches: by contractor, by location, and by contracting agency. The Purchase section allows users to view purchase cards spending of various federal agencies for each fiscal year. The data available on this website are extracted from the report published once every quarter on the GSA SmartPay website. The GSA SmartPay receives this data directly from the banks that issued the purchase cards. This tool allows you to structure your search for data contained on USAspending.gov website.",
-        "keyword": "[\"Federal contracts\", \" Contracts\", \" Awards\", \" Grants\", \" Loans\", \" Assistance\", \" Purchase Cards\", \" GSASmartPay\", \" GSA SmartPay\", \" USASpending\", \" USA Spending\", \" Purchase\", \" Travel\", \" Fleet\", \" contractor\", \" contracting agency\", \" American Recovery and Reinvestment Act\", \" Recovery Act\", \" ARRA\", \" Top\"]",
+        "keyword": ["\"Federal contracts\", \" Contracts\", \" Awards\", \" Grants\", \" Loans\", \" Assistance\", \" Purchase Cards\", \" GSASmartPay\", \" GSA SmartPay\", \" USASpending\", \" USA Spending\", \" Purchase\", \" Travel\", \" Fleet\", \" contractor\", \" contracting agency\", \" American Recovery and Reinvestment Act\", \" Recovery Act\", \" ARRA\", \" Top\""],
         "modified": "1905-07-05",
         "publisher": "General Services Administration",
         "contactPoint": "Pat A Brooks",
@@ -2666,7 +2666,7 @@
     {
         "title": "USAspending.gov Grants and Loans",
         "description": "Provides U.S. Federal Spending by agency. The Grants section allows visitors to search for information about federal assistance; including grants, insurance, direct payments, and other. Information about federal loan spending can be found on the Loans section, which allows visitors to search for information about different federal loan categories, including Direct Loans and Guaranteed Loans. This tool allows you to structure your search for data contained on USAspending.gov website.",
-        "keyword": "[\"Federal contracts\", \" Contracts\", \" Awards\", \" Grants\", \" Loans\", \" Assistance\", \" Purchase Cards\", \" GSASmartPay\", \" GSA SmartPay\", \" USASpending\", \" USA Spending\", \" Purchase\", \" Travel\", \" Fleet\", \" contractor\", \" contracting agency\", \" American Recovery and Reinvestment Act\", \" Recovery Act\", \" ARRA\", \" Top\"]",
+        "keyword": ["\"Federal contracts\", \" Contracts\", \" Awards\", \" Grants\", \" Loans\", \" Assistance\", \" Purchase Cards\", \" GSASmartPay\", \" GSA SmartPay\", \" USASpending\", \" USA Spending\", \" Purchase\", \" Travel\", \" Fleet\", \" contractor\", \" contracting agency\", \" American Recovery and Reinvestment Act\", \" Recovery Act\", \" ARRA\", \" Top\""],
         "modified": "1905-07-05",
         "publisher": "General Services Administration",
         "contactPoint": "Pat A Brooks",
