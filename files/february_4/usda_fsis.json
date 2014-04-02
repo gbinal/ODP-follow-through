@@ -1,0 +1,75 @@
+  {
+      "title":"Meat, Poultry, and Egg Inspection Directory by Establishment Name",
+      "description":"The Meat, Poultry and Egg Product Inspection Directory is a listing of establishments that produce meat, poultry, and/or egg products regulated by USDA's Food Safety and Inspection Service (FSIS) pursuant to the Federal Meat Inspection Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act. \r\nThe directory is updated monthly, and the current edition replaces all previous editions.",
+      "keyword":[
+         "Directory",
+         "Egg",
+         "Establishments",
+         "Facilities",
+         "Food Processing",
+         "Inspection",
+         "Meat",
+         "Poultry"
+      ],
+      "modified":"2014-04-01T16:41:45.715669",
+      "publisher":"Food Safety and Inspection Service, Department of Agriculture",
+      "contactPoint":"Anthony Andreassi",
+      "mbox":"Anthony.Andreassi@fsis.usda.gov",
+      "identifier":"USDA-FSIS-02213",
+      "accessLevel":"public",
+      "dataDictionary":"http://localdomain.local/",
+      "license":"Creative Commons Attribution",
+      "spatial":"national",
+      "issued":"1999-01-30",
+      "accrualPeriodicity":"Monthly",
+      "dataQuality":true,
+      "distribution":[
+         {
+            "accessURL":"http://www.fsis.usda.gov/xls/MPI_Directory_by_Establishment_Name.xls",
+            "format":"application/xls"
+         }
+      ],
+      "references":[
+         "http://www.fsis.usda.gov/regulations_&_policies/Meat_Poultry_Egg_Inspection_Directory/index.asp;  Provides context for the xls submissions"
+      ],
+      "notes":"The Meat, Poultry and Egg Product Inspection Directory is a listing of establishments that produce meat, poultry, and/or egg products regulated by USDA's Food Safety and Inspection Service (FSIS) pursuant to the Federal Meat Inspection Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act. \r\nThe directory is updated monthly, and the current edition replaces all previous editions.",
+      "tagString":"Directory,Egg,Establishments,Facilities,Food Processing,Inspection,Meat,Poultry"
+   },
+    {
+      "title":"Meat, Poultry, and Egg Inspection Directory by Establishment Number",
+      "description":"The Meat, Poultry and Egg Product Inspection Directory is a listing of establishments that produce meat, poultry, and/or egg products regulated by USDA's Food Safety and Inspection Service (FSIS) pursuant to the Federal Meat Inspection Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act. \r\nThe directory is updated monthly, and the current edition replaces all previous editions.",
+      "keyword":[
+         "Directory",
+         "Egg",
+         "Establishments",
+         "Facilities",
+         "Food Processing",
+         "Inspection",
+         "Meat",
+         "Poultry"
+      ],
+      "modified":"2014-04-01T16:41:14.840560",
+      "publisher":"Food Safety and Inspection Service, Department of Agriculture",
+      "contactPoint":"Anthony Andreassi",
+      "mbox":"Anthony.Andreassi@fsis.usda.gov",
+      "identifier":"USDA-FSIS-02246",
+      "accessLevel":"public",
+      "dataDictionary":"http://localdomain.local/",
+      "license":"Creative Commons Attribution",
+      "issued":"1999-01-30",
+      "accrualPeriodicity":"Monthly",
+      "dataQuality":true,
+      "distribution":[
+         {
+            "accessURL":"http://www.fsis.usda.gov/xls/MPI_Directory_by_Establishment_Number.xls",
+            "format":"application/xls"
+         }
+      ],
+      "references":[
+         "http://www.fsis.usda.gov/regulations_&_policies/Meat_Poultry_Egg_Inspection_Directory/index.asp;  Provides context for the xls submissions"
+      ],
+      "notes":"The Meat, Poultry and Egg Product Inspection Directory is a listing of establishments that produce meat, poultry, and/or egg products regulated by USDA's Food Safety and Inspection Service (FSIS) pursuant to the Federal Meat Inspection Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act. \r\nThe directory is updated monthly, and the current edition replaces all previous editions.",
+      "tagString":"Directory,Egg,Establishments,Facilities,Food Processing,Inspection,Meat,Poultry"
+   },
+   
+   
