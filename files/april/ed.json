@@ -133,7 +133,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2005–06 Integrated Postsecondary Education Data System",
@@ -150,7 +150,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2005–06 Private School Universe Survey",
@@ -218,7 +218,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2007–08 Integrated Postsecondary Education Data System",
@@ -235,7 +235,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2007–08 Private School Universe Survey",
@@ -320,7 +320,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2009–10 Integrated Postsecondary Education Data System",
@@ -337,7 +337,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2009–10 Private School Universe Survey",
@@ -405,7 +405,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2011–12 Integrated Postsecondary Education Data System",
@@ -422,7 +422,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "CVS", "accessURL": "http://nces.ed.gov/ipeds/"}]
+    "distribution":[{"format": "text/plain", "accessURL": "http://nces.ed.gov/ipeds/"}, {"format": "text/csv", "accessURL": "http://nces.ed.gov/ipeds/"}]
   },
   {
     "title":"2011–12 National Postsecondary Student Aid Study",
@@ -1799,7 +1799,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "application/JSON", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "text/csv", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/xml", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/pdf", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}],
+    "distribution":[{"format": "application/json", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "text/csv", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/xml", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/pdf", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}],
     "license":"public"
   },
   {
@@ -1817,7 +1817,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "application/JSON", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "text/csv", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/xml", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/pdf", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}],
+    "distribution":[{"format": "application/json", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "text/csv", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/xml", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}, {"format": "application/pdf", "accessURL": "http://explore.data.gov/Education/Resolutions-Related-To-Sexual-Violence/ev8u-vfv9"}],
     "license":"public"
   },
   {
@@ -3129,7 +3129,7 @@
     "bureauCode":["018:45"],
     "programCode":["018:000"],
     "accessLevelComment":null,
-    "accessURL":" http://studentaid.ed.gov/about/data-center/school/clery-act",
+    "accessURL":"http://studentaid.ed.gov/about/data-center/school/clery-act",
     "format":"application/pdf",
     "theme":["Education"],
     "systemOfRecords":null,
