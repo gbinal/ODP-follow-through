@@ -1799,7 +1799,7 @@
     "accessLevelComment":null,
     "theme":["Education"],
     "systemOfRecords":null,
-    "distribution":[{"format": "application/json", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "text/csv", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/xml", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/pdf", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}],
+    "distribution":[{"format": "application/json", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "text/csv", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/excel", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/xml", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}, {"format": "application/pdf", "accessURL": "http://explore.data.gov/Education/Guidance-Related-to-Sexual-Assaults-and-Retaliatio/asyv-emsy"}],
     "license":"public"
   },
   {
