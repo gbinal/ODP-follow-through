@@ -26,7 +26,9 @@
                 "format": "application/xls"
             }
         ],
-        "tagString": "Railroad,Railroad Employees,Railroad Retirement Beneficiaries,Railroad Retirement Board"
+        "tagString": "Railroad,Railroad Employees,Railroad Retirement Beneficiaries,Railroad Retirement Board",
+        "programcode": ["000:000"],
+        "bureaucode": ["446:00"]
     },
     {
         "title": "Longevity of Railroad Retirement Beneficiaries",
@@ -54,8 +56,8 @@
                 "format": "application/xls"
             }
         ],
-        "programcode": "000:000",
-        "bureaucode": "446:00"
+        "programcode": ["000:000"],
+        "bureaucode": ["446:00"]
     },
     {
         "title": "Railroad Retirement Act Annuitants and Active Railroad Employees by Congressional District",
@@ -83,8 +85,8 @@
                 "format": "application/xls"
             }
         ],
-        "programcode": "000:000",
-        "bureaucode": "446:00"
+        "programcode": ["000:000"],
+        "bureaucode": ["446:00"]
     },
     {
         "title": "Total Number of Railroad Employees by State, Class of Employer and Last Railroad Employer, 2011",
@@ -112,8 +114,8 @@
                 "format": "application/xls"
             }
         ],
-        "programcode": "000:000",
-        "bureaucode": "446:00"
+        "programcode": ["000:000"],
+        "bureaucode": ["446:00"]
     },
     {
         "title": "Total Railroad Employment by State and County, 2012",
@@ -145,6 +147,8 @@
             }
         ],
         "notes": "A breakdown of Railroad employees by State and County",
-        "tagString": "County,Demographic,Railroad,Railroad Employees,Railroad Retirement Board,State"
+        "tagString": "County,Demographic,Railroad,Railroad Employees,Railroad Retirement Board,State",
+        "programcode": ["000:000"],
+        "bureaucode": ["446:00"]
     }
 ]
